@@ -1,0 +1,882 @@
+nama_tps,alamat,kelurahan,kecamatan,wilayah,jenis_tps,luas_lahan(m2),status_lahan,volume_sampah_rata_rata_per_hari(m3)
+Lps Asrama Polisi Rw. 09,Jl. Cideng Barat,Cideng,Gambir,Jakarta Pusat,Bak Beton,14,Asrama Polisi,1
+Dinas teknis,Jl.  Jati baru,Cideng,Gambir,Jakarta Pusat,Bak Beton,60,Dinas teknis,8
+Rw.012,Jl.setia kawan Rt.01,Duri pulo,Gambir,Jakarta Pusat,Bak Beton,18,PJKA,8
+Rw.09,Jl.setia kawan ujung rt 03,Duri pulo,Gambir,Jakarta Pusat,Bak Beton,20,Pemda,6
+Rw.04,Jl.gambir buntu,Gambir,Gambir,Jakarta Pusat,Bak Beton,8,Pemda,1
+Perhubungan ,Jl. Abdul Muis,Gambir ,Gambir,Jakarta Pusat,Bak Beton,12,Kementerian perhubungan ,2
+RS.  Budi kemuliaan,Jl.  Budi kemuliaan ,Gambir ,Gambir,Jakarta Pusat,Bak Beton,15,Rs.  Budi kemuliaan ,1
+Rw.07 dan 08,Jl.binatu 1,Petojo utara,Gambir,Jakarta Pusat,Bak Beton,24,Pemda,6
+Kementrian pertahanan ,Jl.  Tanah Abang timur,Gambir,Gambir ,Jakarta Pusat,Bak Beton,64,Kementerian pertahanan ,4
+Sekretaris Negara ,Jl. Medan merdeka Utara ,Gambir ,Gambir ,Jakarta Pusat,Bak Beton,12,Pemerintah ,14
+Kemenkominfo,Jl.  Abdul muis,Gambir ,Gambir ,Jakarta Pusat,Bak Beton,48,Kemenkominfo,2
+Pasar Thomas ,Jl. Tanah Abang V,Petojo selatan ,Gambir ,Jakarta Pusat,Bak Beton,8,Pd pasar jaya,6
+LPS gembrong,Jl.rawa selatan I,Kampung rawa,Johar baru,Jakarta Pusat,Bak Beton,30,Milik Pemda ,18
+TPS RW. 03 Cikini,Jl. Raden Saleh II,Cikini,Menteng,Jakarta Pusat,Bak Beton,20,PU air,12
+TPS SMP Negeri 1,Jl. Cikini raya,Cikini,Menteng,Jakarta Pusat,Bak Beton,6,Sekolah,3
+TPS RW. 10 Menteng Tenggulun,Jl. Menteng Tenggulun,Menteng,Menteng,Jakarta Pusat,Bak Beton,30,Pinggir kali,10
+TPS Kimia,Jl. Kimia,Pegangsaan,Menteng,Jakarta Pusat,Bak Beton,8,PU Air,5
+Tps Rusun Benhil II,Jl. Lan 2 Pejompongan,Bendungan Hilir,Tanah Abang,Jakarta Pusat,Bak Beton,15,Milik rusun,7.5
+Tps Rusun Benhil I,Jl. Penjernihan I,Bendungan Hilir,Tanah Abang,Jakarta Pusat,Bak Beton,18,Milik Dinas Perumahan,8
+Pasar palmerah,Jl.Palmerah Selatan,Gelora,Tanah Abang,Jakarta Pusat,Bak Beton,48,Milik PD Pasar Jaya,16
+Pasar UKM Lokbin Palmerah,Jl. Palmerah Barat Rt/Rw 01/02,Gelora,Tanah Abang,Jakarta Pusat,Bak Beton,18,Milik Pemerintah,16
+Lps St. Tn Abang,Jl. Jati Baru,Kampung Bali,Tanah Abang,Jakarta Pusat,Bak Beton,36,Milik PJKA,6
+Tps RSTA Rw 10,Jl. KH Mas Mansyur,Kebon Kacang,Tanah Abang,Jakarta Pusat,Bak Beton,10,Milik Dinas Perumahan,6
+Pasar lontar,Jl.Sabeni Raya ,Kebon melati,Tanah Abang,Jakarta Pusat,Bak Beton,48,Milik PD Pasar Jaya,30
+Tps Rusun Petamburan,Jl. Petamburan V Rw 11,Petamburan,Tanah Abang,Jakarta Pusat,Bak Beton,6,Milik Dinas Perumahan,10
+Tps Rusun Petamburan,Jl. Petamburan V Rw 11,Petamburan,Tanah Abang,Jakarta Pusat,Bak Beton,6,Milik Dinas Perumahan,10
+Dipo rawakerbo,Jl.Rawasari sel,Cempaka putih timur,Cempaka putih,Jakarta Pusat,TPS 3R,150,Pemrov DKI,24
+Dipo kebon kelapa,Jl.pintu air 2,Kebon kelapa,Gambir,Jakarta Pusat,Dipo,200,PJKA,18
+Dipo Tanjung Selor,Jl.  Tanjung selor,Cideng,Gambir ,Jakarta Pusat,Dipo,200,Pemda dki,40
+Dipo Jl. Tanah Abang I,Jl. Tanah Abang I,Petojo Selatan ,Gambir ,Jakarta Pusat,Dipo,120,Pemerintah ,40
+Dipo Johar baru ,Jl.Johar Baru Utara 1,Johar Baru,Johar Baru,Jakarta Pusat,Dipo,225,Milik Pemda,40
+Dipo kota Paris ,Jl.pulogundul ,Tanah tinggi,Johar baru ,Jakarta Pusat,Dipo,180,Milik pemda,16
+Dipo Kran,Jl.Kran Raya,Gunung Sahari Selatan,Kemayoran,Jakarta Pusat,Dipo,225,Pemda,58
+Dipo Matraman,Jl. Matraman Dalam 1,Pegangsaan,Menteng,Jakarta Pusat,Dipo,400,Tanah PU air,60
+Dipo Gunung Sahari Utara,Jl. Gunung Sahari 7A,Gunung Sahari Utara,Sawah besar,Jakarta Pusat,Dipo,600,PJKA,60
+Dipo PAM,Jl. PAM Baru Raya,Bendungan Hilir,Tanah Abang,Jakarta Pusat,Dipo,400,Tanah Milik PU,45
+Dipo PLN,Jl. Awaludin IV Rt/Rw 03/17,Kebon Melati,Tanah Abang,Jakarta Pusat,Dipo,264,Tanah Milik PLN,30
+Dipo Rw 04 Petamburan,Jl. Petamburan Rw 04,Petamburan,Tanah Abang,Jakarta Pusat,Dipo,255,Milik Pemerintah,20
+Kantor DPRD,Jl.kebon sirih raya ,Gambir,Gambir,Jakarta Pusat,Pool Container,15,Milik pemda DKI ,5
+Stasiun Gambir,Jl.medan merdeka timur,Gambir,Gambir,Jakarta Pusat,Pool Container,40,PJKA,12
+Lenggang jakarta,Taman monas,Gambir,Gambir,Jakarta Pusat,Pool Container,15,Pemda,8
+Lemhanas,Jl.kebon sirih raya,Gambir,Gambir,Jakarta Pusat,Pool Container,30,Pemerintah pusat,6
+Kementerian perdagangan,Jl.ridwan rais,Gambir,Gambir,Jakarta Pusat,Pool Container,21,Pemerintah pusat,6
+Kantor walikota,Jl.tanah abang 1,Gambir,Gambir,Jakarta Pusat,Pool Container,24,Pemda,4
+Paspampres ,Jl. Tanah Abang 2,Petojo selatan ,Gambir,Jakarta Pusat,Pool Container,16,Paspampres ,5
+Pasar petojo ilir,Jl.petojo ilir,Petojo utara,Gambir,Jakarta Pusat,Pool Container,16,PD.PASAR,14
+Pool container Embrio,Jl.pulo gundul,Tanah tinggi ,Johar baru,Jakarta Pusat,Pool Container,15,Milik pemda,8
+Tps Golden,Jl. Bungur Besar Raya,Gunung Sahari Selatan,Kemayoran,Jakarta Pusat,Pool Container,50,Milik PT. Golden Truly,12
+Tps Armabar,Jl. Bungur Besar Raya,Gunung Sahari Selatan,Kemayoran,Jakarta Pusat,Pool Container,35,Milik Koarmabar,12.05
+Tps RW. 10 Kebon Kosong,Jl. Swadaya,Kebon Kosong,Kemayoran,Jakarta Pusat,Pool Container,15,Swadaya warga,6.83
+Tps Apron,Jl.Angkasa Raya,Kebon Kosong,Kemayoran,Jakarta Pusat,Pool Container,60,Swadaya warga,10
+Tips Pasar Kemayoran,"Jl.D ,Utan Panjang",Utan Panjang,Kemayoran,Jakarta Pusat,Pool Container,360,PD Pasar Jaya,9.06
+TPS TIM,Jl. Cikini Raya,Cikini,Menteng,Jakarta Pusat,Pool Container,20,Halaman Taman Ismail Marzuki,12
+TPS RW. 01 Menteng Tenggulun,Jl. Menteng Tenggulun,Menteng,Menteng,Jakarta Pusat,Pool Container,15,Pinggir Kali,8
+TPS RW.01 ,Jl. Cikini Kramat,Pegangsaan,Menteng,Jakarta Pusat,Pool Container,15,Jalan Warga,12
+Pasar Timbul,Jl. Gotong Royong,Kartini,Sawah besar,Jakarta Pusat,Pool Container,20,PD. Pasar,18
+Istiqlal,Komplek Masjid Istiqlal,Pasar Baru,Sawah Besar,Jakarta Pusat,Pool Container,100,Masjid Istiqlal,9
+lps rw 05 senen, Jl abdurohman saleh,Senen,Senen,Jakarta Pusat,Pool Container,16,Pemda,7
+Lps pasar kebon jati,Jl.Kebon Jati,Kampung Bali,Tanah Abang,Jakarta Pusat,Pool Container,40,Milik PD Pasar Jaya,10
+Tps Rw 07 Karteng,Jl. Karet Pasar Baru Barat I Rw 07,Karet Tengsin,Tanah Abang,Jakarta Pusat,Pool Container,42,Milik PU,8
+Tps RSTA Rw 11,Jl. Kebon Kacang IX Rw 11,Kebon Kacang,Tanah Abang,Jakarta Pusat,Pool Container,25,Milik Dinas Perumahan,8
+Pasar Gandaria,Jl. Kebon Kacang I,Kebon Kacang,Tanah Abang,Jakarta Pusat,Pool Container,30,Milik PD. Pasar Jaya,6
+Tps RSKK,Jl. Kb Kacang XI,Kebon Kacang,Tanah Abang,Jakarta Pusat,Pool Container,5,Milik Dinas Perumahan,8
+Jl.Cempaka putih barat,jl.cempaka putih barat 2,Cempaka putih barat,Cempaka putih,Jakarta Pusat,Pool Gerobak,20,Pemrov DKI,12
+Jl.mardani raya,Jl.mardani raya,Cempaka putih barat,Cempaka putih,Jakarta Pusat,Pool Gerobak,16,Pemrov DKI,12
+jl.cempaka putih timur rw 4,Jl.cempaka putih timur,Cempaka putih timur,Cempaka Putih,Jakarta Pusat,Pool Gerobak,75,Pemrov DKI,4
+Tps jl.cempaka putih tengah 31,Jl.cempaka putih tengah 31,Cempaka putih timur,Cempaka putih,Jakarta Pusat,Pool Gerobak,30,Pemrov DKI,3
+Jl.cempaka putih tengah 17,Jl.cempaka putih tengah 17 rw 7,Cempaka putih timur,Cempaka putih,Jakarta Pusat,Pool Gerobak,34,Pemrov DKI,9
+Jl.percetakan negara IX,jl.percetakan negara IX,Rawasari,Cempaka putih,Jakarta Pusat,Pool Gerobak,20,Pemrov DKI,8
+Jl.percetakan negara 5,jl.percetakan negara 5,Rawasari,Cempaka putih,Jakarta Pusat,Pool Gerobak,20,Pemrov DKI,8
+Jl.pramuka jaya sari,jl.pramuka jaya sari,Rawasari,Cempaka putih,Jakarta Pusat,Pool Gerobak,14,Pemrov DKI,8
+Rw.07 dan 08,Jl.subur baru,Duri pulo,Gambir,Jakarta Pusat,Pool Gerobak,60,Pemda,16
+Jl.pejambon,Jl.pejambon,Gambir,Gambir,Jakarta Pusat,Pool Gerobak,15,Pemda/bahu jalan,4
+TPS JL.BATU,Jl.batu,Gambir,Gambir,Jakarta Pusat,Pool Gerobak,15,Pemerintah pusat,5
+Sukarjo wiryopranoto,Jalan sukarjo wiryopranoto,Kebon kelapa,Gambir,Jakarta Pusat,Pool Gerobak,15,Pemda,12
+LPS  Tanah Abang 3,Jl.  Tanah Abang 3,Petojo Selatan ,Gambir ,Jakarta Pusat,Pool Gerobak,4,Bahu jalan,6
+Jatibaru,Jl.  Jatibaru,Petojo selatan ,Gambir ,Jakarta Pusat,Pool Gerobak,6,Bahu jalan,4
+RW. 03 Petojo Utara ,Jl. Petojo Utara VI,Petojo Utara ,Gambir ,Jakarta Pusat,Pool Gerobak,21,Bahu jalan,20
+Rw. 04 petojo utara ,Jl. Cideng Timur ,Petojo utara ,Gambir ,Jakarta Pusat,Pool Gerobak,18,"Pemda,  jalan raya",6
+RW. 05 dan RW.06 ,Jl  cideng timur,Petojo utara ,Gambir ,Jakarta Pusat,Pool Gerobak,18,"Pemda,  bahu jalan",12
+Tps Jl. Pam Rw. 08,Jl. Pam Rw. 08 Cempaka baru,Cempaka Baru,Kemayoran,Jakarta Pusat,Pool Gerobak,15,Bahu Jalan,10
+Tps Rw. 05 Cempaka Baru,Jl. Sumur Batu Raya,Cempaka Baru,Kemayoran,Jakarta Pusat,Pool Gerobak,50,Bahu Jalan,10.78
+Tps RW. 06 Kel. Cempaka Baru,Jl. Cempaka Baru Tengah,Cempaka Baru,Kemayoran,Jakarta Pusat,Pool Gerobak,30,Bahu Jalan,12.11
+TPS Rw. 07 Kel. Cempaka Baru,Jl. Cempaka Baru III,Cempaka Baru,Kemayoran,Jakarta Pusat,Pool Gerobak,30,Bahu Jalan,14
+TPS JL. Sudiro,Jl. SUDIRO,Cempaka Baru,Kemayoran,Jakarta Pusat,Pool Gerobak,20,Bahu Jalan,14.81
+Tps RW. 02 Cempaka Baru,Jl. Letjend Suprapto,Cempaka Baru,Kemayoran,Jakarta Pusat,Pool Gerobak,20,Bahu Jalan,17.86
+Tps Jl. Bangau,Jl. Bangau II,Gunung Sahari Selatan,Kemayoran,Jakarta Pusat,Pool Gerobak,15,Prasum,83.94
+Tps Yon Anmor,Jl. Tanah Tinggi Timur,Harapan Mulya,Kemayoran,Jakarta Pusat,Pool Gerobak,50,Bahu Jalan,56.86
+TPS Jl. Kalibaru Timur,Jl. Kalibaru Timur,Kebon Kosong,Kemayoran,Jakarta Pusat,Pool Gerobak,35,Bahu Jalan,51.5
+TPS Terusan Dakota,Jl. Dakota Raya,Kebon Kosong,Kemayoran,Jakarta Pusat,TPS 3R,70,Lahan PPKK Kemayoran,39.3
+Tps Jl.  Terusan Dakota,Jl. Terusan Dakota,Kebon Kosong,Kemayoran,Jakarta Pusat,Pool Gerobak,70,Lahan milik PPKK Kemayoran,10
+Tps Jl. Kepu Selatan,Jl. Kepu Selatan Rw. 03,Kemayoran,Kemayoran,Jakarta Pusat,Pool Gerobak,20,Bahu Jalan,12.52
+Tps Jl. Benda,Jl. Benda timur,Kemayoran,Kemayoran,Jakarta Pusat,Pool Gerobak,15,Prasum (Bahu Jalan),10
+Tps JL. Kepu Timur,Jl. kepu Timur,Kemayoran,Kemayoran,Jakarta Pusat,Pool Gerobak,15,Bahu Jalan,10.15
+Tps RW.02 Pirus,Jl. Mutiara,Sumur Batu,Kemayoran,Jakarta Pusat,Pool Gerobak,20,Bahu Jalan,22.58
+Zamrud,Jl. Zamrud raya,Sumur batu,Kemayoran,Jakarta Pusat,Pool Gerobak,20,Bahu Jalan,17.18
+Tps Jl. Berlian,Jl. Berlian Raya,Sumur Batu,Kemayoran,Jakarta Pusat,Pool Gerobak,20,Bahu Jalan,26.48
+Tps Jl. Kodam,Jl.Kodam Raya,Sumur Batu,Kemayoran,Jakarta Pusat,Pool Gerobak,15,Bahu Jalan,15.39
+Tps Ardala (Gembreng),Jl. Utan Panjang Timur Rw.02,Utan Panjang,Kemayoran,Jakarta Pusat,Pool Gerobak,60,Bahu Jalan,23.69
+Tps Sengon,Jl. Utan Panjang Timur Rw. 03,Utan Panjang,Kemayoran,Jakarta Pusat,Pool Gerobak,50,Bahu Jalan,18.83
+Pool Gerobak Cut Mutia,Jl. Cut Mutia,Cikini,Menteng,Jakarta Pusat,Pool Gerobak,20,Bahu Jalan,30
+Pool Gerobak Latuharhary,Jl. Latuharhary,Menteng,Menteng,Jakarta Pusat,Pool Gerobak,15,Bahu Jalan,8
+TPS Anyer,Jl. Anyer 15,Menteng,Menteng,Jakarta Pusat,Pool Gerobak,50,PT. KAI,32
+Pool Gerobak Blora,Jl. Blora,Menteng,Menteng,Jakarta Pusat,Pool Gerobak,15,Bahu jalan,8
+Kartini Tengah,Jl. Kartini Raya,Kartini,Sawah Besar,Jakarta Pusat,Pool Gerobak,200,Tepi Jalan,25
+Kartini Ujung,Jl. Kartini Raya,Kartini,Sawah Besar,Jakarta Pusat,Pool Gerobak,200,Tepi Jalan,15
+Pangeran Jayakarta Dalam,Jl. Pangeran Jayakarta Dalam,Mangga Dua Selatan,Sawah Besar,Jakarta Pusat,Pool Gerobak,150,Ruko,4
+Mangga Dua Selatan RW 06,Jl. Gatep,Mangga Dua Selatan,Sawah Besar,Jakarta Pusat,Pool Gerobak,120,Ruko,6
+Lps komplek salemba,Jl salemba raya,kenari,Senen,Jakarta Pusat,Pool Gerobak,20,Milik pemda,0.04
+Lps kenari 2,Kenari 2,Kenari ,Senen,Jakarta Pusat,Pool Gerobak,36,Dki,10
+Keramat sentiong ,Jl keramat sentiong,keramat,Senen,Jakarta Pusat,Pool Gerobak,16,Dki,0.57
+Lps sedap malam,Jl sedap malam,Keramat,Senen,Jakarta Pusat,Pool Gerobak,25,Pemda,25
+lps rw 07 kwitang ,Jl kwitang 2,Kwitang,Senen,Jakarta Pusat,Pool Gerobak,36,Dki,0.283
+Lps gunung agung ,Gunung agung,Kwitang ,Senen,Jakarta Pusat,Pool Gerobak,36,Dki ,9
+Lps salemba tengah,Jl salemba tengah,Paseban,Senen,Jakarta Pusat,Pool Gerobak,36,Dki,12
+Lps rw 01 paseban,Jl keramat lontar ,Paseban,Senen,Jakarta Pusat,Pool Gerobak,36,Milik pemda,0.283
+lps rw 04 senen,Stasiun senen,Senen,Senen,Jakarta Pusat,Pool Gerobak,36,Tidak ada,24
+Lps Rw 07 Benhil,Jl. Administrasi Negara I Rt/Rw 01/07,Bendungan Hilir,Tanah Abang,Jakarta Pusat,Pool Gerobak,48,Pinggir Kali,15
+Lps Palmerah Selatan,Jl. Palmerah Selatan,Gelora,Tanah Abang,Jakarta Pusat,Pool Gerobak,30,Badan Jalan,10
+Kampung Bali 25,Jl.Kampung Bali XXV,Kampung Bali,Tanah Abang,Jakarta Pusat,Pool Gerobak,15,Bahu Jalan,20
+Lps Taman Kb Sirih 1,Jl. Taman Kebon Sirih 1,Kampung Bali,Tanah Abang,Jakarta Pusat,Pool Gerobak,30,Bahu Jalan,10
+Lps Taman Kb Sirih 2,Jl. Taman Kebon Sirih 2,Kampung Bali,Tanah Abang,Jakarta Pusat,Pool Gerobak,60,Bahu Jalan,16
+Lps Kebon Jati,Jl. Kebon Jati,Kampung Bali,Tanah Abang,Jakarta Pusat,Pool Gerobak,5,Bahu Jalan,6
+Lps Abdul Jalil,Jl.Abdul Jalil ,Karet Tengsin,Tanah Abang,Jakarta Pusat,Pool Gerobak,28,Bahu Jalan ,10
+Lps Karet Bivak,Jl. KH Mas Mansyur,Karet Tengsin,Tanah Abang,Jakarta Pusat,Pool Gerobak,30,Bahu Jalan,60
+Lps Kb Kacang 9,Jl. Kebon Kacang 9 Rw 03,Kebon Kacang,Tanah Abang,Jakarta Pusat,Pool Gerobak,37.5,Bahu Jalan,20
+Lps Kb Kacang 8,Jl. Kebon Kacang 8 Rw 02,Kebon Kacang,Tanah Abang,Jakarta Pusat,Pool Gerobak,30,Bahu Jalan,6
+Lps Talang Betutu,Jl. Talang Betutu,Kebon Melati,Tanah Abang,Jakarta Pusat,Pool Gerobak,45,Bahu Jalan,15
+Dipo Rw 01 Petamburan,Jl. Petamburan Rw 01,Petamburan,Tanah Abang,Jakarta Pusat,Pool Gerobak,63,Miliki Pemerintah,20
+MA (mahkamah agung) ,Jl.cempaka putih timur 25,Cempaka putih timur,Cempaka putih,Jakarta Pusat,TPS,45,Pemrov DKI,8
+Lps Cibunar,Jl.cibunar Rt.03 rw.04,Duri pulo,Gambir,Jakarta Pusat,TPS,60,Pemda,20
+LPS MONAS,Monas,Gambir,Gambir,Jakarta Pusat,TPS,40,Pemerintah pusat,20
+Tps Pasar Cempaka Sari,Jl. Cempaka sari III,Harapan Mulya,Kemayoran,Jakarta Pusat,TPS,15,PD Pasar,8.53
+Tps gempol,Jalan kemayoran gempol,Kebon kosong,Kemayoran,Jakarta Pusat,TPS,60,Bahu jalan,16
+Tps Kemayoran Gempol,Jl. Kemayoran Gempol,Kebon Kosong,Kemayoran,Jakarta Pusat,TPS,15,Bahu Jalan,34.95
+Tps Pasar Serdang,Jl. Serdang III,Serdang,Kemayoran,Jakarta Pusat,TPS,30,PD PASAR JAYA,23.56
+Tps Pasar Sumur Batu,Jl. Sumur Batu Raya,Sumur Batu,Kemayoran,Jakarta Pusat,TPS,45.5,PD Pasar Jaya,24
+TPS Karang Anyar,Jl. Karang Anyar Raya,Karang Anyar,Sawah Besar,Jakarta Pusat,TPS,400,PJKA,80
+Mangga Besar 13 (djinggo),Jl. Mangga Besar 13,Mangga Dua Selatan,Sawah besar,Jakarta Pusat,TPS,300,PJKA,18
+Lps pramuka jati,Jl pramuka jati,Paseban,Senen,Jakarta Pusat,TPS,36,Dki,0.283
+Lps Berlin,Jl Bungur Besar,Bungur,Senen,Jakarta Pusat,TPS,36,Dki,0.24
+Lps keramat sawah,Jl keramat sawah,Paseban,Senen,Jakarta Pusat,TPS,37,Dki,1.24
+Lps Pasar Kwitang,Jl Kwitang 1,Kwitang,Senen,Jakarta Pusat,TPS,38,Dki,2.24
+Rw. 05 Pahlawan Jl. Pahlawan,Jl. Pahlawan Pos Pengumben,Sukabumi Selatan,Kebon Jeruk,Jakarta Barat,Pool Gerobak,100,Jalan umum Utama,19.26
+Rw. 01 Peruri Sukabumi Selatan,Jl. Komp. KPBD Rw 01 Sukabumi selatan kebon jeruk,Sukabumi Selatan,Kebon Jeruk,Jakarta Barat,Pool Gerobak,80,Milik PT. Peruri ,24255
+Rw. 05 Pasar Pos Pengumben,Jl. Raya pos pengumben rt 07 rw 05 sukabumi selatan kebon jeruk,Sukabumi Selatan ,Kebon Jeruk,Jakarta Barat,Pool Container,30,Milik PD. Pasar jaya pos pengumben,7.51
+Rw. 06 Perumahan Bulog,Jl. Raya pos pengumben rt 05 rw 06 sukabumi selatan kebon jeruk,Sukabumi Selatan,Kebon Jeruk,Jakarta Barat,Pool Container,71,Perumahan Bulog,4.3
+Rw. 02 Jl. Panjang Arteri Kelapa Dua,Jl. Arteri Kelapa Dua Raya,Kelapa Dua,Kebon Jeruk,Jakarta Barat,Pool Gerobak,350,Pinggir Jalan Umum,77625
+Rw. 07 Vila Kelapa Dua,Jl. Janur Raya Vila Kelapa Dua,Kelapa Dua,Kebon Jeruk,Jakarta Barat,Pool Gerobak,250,Vila Kelapa Dua,7785
+Rw. 05 Perumahan Pertambangan,Jl. Komplek  Perumahan Pertambangan,Kelapa Dua,Kebon Jeruk,Jakarta Barat,Pool Gerobak,50,Komplek Pertambangan,6.03
+Rw. 06 Pinggir Kali Pesangrahan Kelapa Dua,Jl. Pinggir Kali Pesangrahan Pos Pengumben Kelapa Dua dekat Kebon Bibit pertamanan,Kelapa Dua,Kebon Jeruk,Jakarta Barat,Pool Gerobak,250,Pinggir Jalan Umum,54765
+Rw. 03 Pasar Kembang Rawabelong,"Jl. Sulaiman No.50, RT.2/RW.3, Sukabumi Utara",Sukabumi Utara,Kebon Jeruk,Jakarta Barat,Bak Beton,33,Pasar Kembang Rawabelong,16245
+Rw. 04 Hankam ,"Jl. Raya Kby. Lama No.10, Sukabumi Utara, Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11540",Sukabumi Utara,Kebon Jeruk,Jakarta Barat,Pool Container,70,Perumahan Hankam,8.64
+Rw. 02 Komplek DPR,Jl. Komplek DPR Kebon Jeruk,Kebon Jeruk,Kebon Jeruk,Jakarta Barat,Pool Container,60,Komplek DPR,4455
+Rw. 010 Jl. Lapangan Bola,Jl. Lapangan Bola Kebon Jeruk,Kebon Jeruk,Kebon Jeruk,Jakarta Barat,Pool Gerobak,80,Pinggir Jalan Umum,9.18
+Rw. 01 Perumahan Depag,Jl. Kedoya Duri Raya Rw. 01,Kedoya Selatan,Kebon Jeruk,Jakarta Barat,Pool Gerobak,60,Pinggir Jalan Umum,6.48
+Rw. 05 Jl. Puri Kembangan,Jl. Puri Kembangan Kedoya Selatan,Kedoya Selatan,Kebon Jeruk,Jakarta Barat,Pool Gerobak,50,Pinggir Jalan Umum,9
+Jl. Adhi Karya Rw. 05,Jl. Adhi Karya Kedoya Selatan,Kedoya Selatan,Kebon Jeruk,Jakarta Barat,Pool Gerobak,50,Pinggir Jalan Umum,7.02
+Rw. 07Jl. Kedoya Raya,Jl. Kedoya Raya depan pemakaman,Kedoya Utara,Kebon Jeruk,Jakarta Barat,Pool Gerobak,60,Pinggir Jalan,8.65
+Rw. 08 Pasar Kedoya Utara,"Jalan Kedoya Pesing, RT.14/RW.8, Kedoya Utara, Kebon Jeruk, RT.14/RW.8",Kedoya Utara,Kebon Jeruk,Jakarta Barat,Pool Container,42,PD Pasar Jaya Kedoya Utara,6435
+Rw. 03 Greenvile Duri Kepa,Jl. Komplek Greenvile Rw. 03,Duri Kepa,Kebon Jeruk,Jakarta Barat,Pool Container,50,Pinggir Jalan Umum,7875
+Rw. 03 Green Garden," jl. Komplek green garden Rw.03, Kedoya Utara",Kedoya Utara,Kebon Jeruk,Jakarta Barat,Pool Container,300,Komplek Green Garden,5.4
+Rw. 02 Asrama Polisi," Jl. Daan Mogot, RT.4/RW.2, Kedoya Utara",Kedoya Utara,Kebon Jeruk,Jakarta Barat,Pool Container,36,Asrama Polisi,4.95
+Rw.010 Duri Kepa,Jl. Mangga XVII Duri Kepa,Duri Kepa,Kebon Jeruk,Jakarta Barat,Pool Gerobak,70,Pinggir Jalan Umum,5.04
+Rw. 07 Duri kepa,Jl. Duri Utama Raya Duri Kepa,Duri Kepa,Kebon Jeruk,Jakarta Barat,Pool Gerobak,60,Pinggir Jalan Umum,5.04
+Rw. 013 Sungai Yordan Duri Kepa,Jl. Ratu Meati Depan Gereja,Duri Kepa,Kebon Jeruk,Jakarta Barat,Pool Gerobak,50,Pinggir Jalan Umum,6435
+Rw. 013 Kali Sekretaris,Jl.  Kali Sekretaris Duri Kepa,Duri Kepa,Kebon Jeruk,Jakarta Barat,Pool Gerobak,70,Pinggir Jalan umum,17145
+Rw. 09 Duri Kepa,Jl. Kali Sekretaris  Duri kepa,Duri Kepa,Kebon Jeruk,Jakarta Barat,Pool Container,120,Perumahan Green Garden Rw. 09,14625
+Rw. 02 Pasar Patra,Jl. Patra Raya,Duri kepa,Kebon Jeruk,Jakarta Barat,Pool Container,90,Pasar Patra,3.24
+DIPO Kebon Jeruk Rw. 08,Jl. Perumahan Kebon Jeruk Baru,Kebon Jeruk,Kebon Jeruk,Jakarta Barat,Dipo,300,Pemda DKI Jakarta,47.52
+Rw. 06 Duri Kepa,JL. Palem Duri kepa,Duri Kepa,Kebon Jeruk,Jakarta Barat,Pool Gerobak,60,Pinggir Jalan,3825
+Dipo Makaliwe,Jl. Makaliwe,Grogol,Grogol Petamburan,Jakarta Barat,Dipo,200,Dinas Pemuda dan Olahraga,80
+Dipo Arjuna,Jl. Arjuna,Tanjung Duren Selatan,Grogol Petamburan,Jakarta Barat,Dipo,100,Dinas Bina MARGA,30
+DIPO Indraloka,Jl. Indraloka,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Dipo,200,Fasos Fasum,40
+Dipo Tio,Jl. Tanjung Duren Utara IV,Tanjung Duren Utara,Grogol Petamburan,Jakarta Barat,Dipo,100,Dinas Pertamanan dan Pemakaman,20
+Dipo Uci,Jl. Jelambar Utara,Jelambar Baru,Grogol Petamburan,Jakarta Barat,Dipo,60,Perum THI,24
+Dipo Kembar Rw. 02,Jl. Jelambar Baru Raya,Jelambar Baru,Grogol Petamburan,Jakarta Barat,Dipo,60,Fasos Fasum,24
+Dipo Kembar Rw. 08,Jl. Jelambar Baru Raya,Jelambar,Grogol Petamburan,Jakarta Barat,Dipo,60,Fasos Fasum,24
+Dipo Rw. 11,Jl. Duta Mas,Jelambar Baru,Grogol Petamburan,Jakarta Barat,Dipo,45,Telkom,20
+Dipo Rw. 12,Jl. Duta Mas,Jelambar Baru,Grogol Petamburan,Jakarta Barat,Dipo,40,Telkom,20
+Dipo Pakuwon ,Jl. Jelambar Selatan,Jelambar Baru,Grogol Petamburan,Jakarta Barat,Dipo,48,Fasom Fasum,20
+Rw. 09 Duta Mas,Jl. Taman Duta Mas,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Pool Gerobak,24,Fasos Fasum,14
+Joker Rw. 01,Jl. Daan Mogot 1,Tanjung Duren Utara,Grogol Petamburan,Jakarta Barat,Pool Container,28,Swadaya,10
+Sosial Rw. 02,Jl. Sosial,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Pool Container,15,Swadaya,6
+Jl. Taman Surya  Kel. Wijaya Kusuma,Jl. Taman Surya  Kel. Wijaya Kusuma,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Pool Container,15,Pemda,10
+Universitas Trisakti,Universitas Trisakti,Tomang,Grogol Petamburan,Jakarta Barat,Pool Container,15,Pemda,10
+Pasar Grogol,Jl. Dr. Susilo Raya Kel. Grogol,Grogol,Grogol Petamburan,Jakarta Barat,Pool Container,15,Pemda,6
+Jl. Arjuna Kel. Tj. Duren Utara,Jl. Arjuna Kel. Tj. Duren Utara,Tj. Duren Utara,Grogol Petamburan,Jakarta Barat,Pool Container,40,Pemda,10
+Pasar Duta Mas,Jl. Komp. Duta mas Kel. Wijaya Kusuma,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Pool Container,12,Pemda,6
+Jl. Swadaya Raya Kel. Wijaya Kusuma,Jl. Swadaya Raya Kel. Wijaya Kusuma,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Pool Container,48,Pemda,10
+Jl. Susilo Kel. Grogol,Jl. Susilo Kel. Grogol,Grogol,Grogol Petamburan,Jakarta Barat,Pool Gerobak,18,Pemda,12
+Jl. Tawakal Raya  Kel. Tomang,Jl. Tawakal Raya  Kel. Tomang,Tomang,Grogol Petamburan,Jakarta Barat,Pool Gerobak,21,Pemda,20
+Jl. Tawakal Ujung Raya,Jl. Tawakal Ujung Raya,Tomang,Grogol Petamburan,Jakarta Barat,Pool Gerobak,25,Pemda,20
+Jl. Delima  Kel. Tj. Duren Selatan ,Jl. Delima  Kel. Tj. Duren Selatan ,Tj. Duren Selatan,Grogol Petamburan,Jakarta Barat,Pool Gerobak,21,Pemda,12
+Jl. Taman Rasa Sayang Rw 08 Kel. W. Kusuma,Jl. Taman Rasa Sayang Rw 08 Kel. W. Kusuma,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Pool Gerobak,70,Pemda,20
+Jl. TB. Angke Kel W. Kusuma,Jl. TB. Angke Kel W. Kusuma,Wijaya Kusuma,Grogol Petamburan,Jakarta Barat,Pool Gerobak,33,Pemda,20
+Jl. Hadiah Utama,Jl. Hadiah Utama,Jelambar,Grogol Petamburan,Jakarta Barat,Pool Gerobak,18,Pemda,12
+Jl. Satria I,Jl. Satria I,Jelambar,Grogol Petamburan,Jakarta Barat,Pool Gerobak,30,Pemda,12
+"Jl. Perdana, Kelurahan Wijaya Kusuma","Jl. Perdana, Kelurahan Wijaya Kusuma",Jelambar,Grogol Petamburan,Jakarta Barat,Pool Gerobak,40,Pemda,20
+Jl. Kav Polri,Jl. Kav Polri,Jelambar,Grogol Petamburan,Jakarta Barat,Pool Gerobak,18,Pemda,12
+Jl. Kav Polri,Jl. Kav Polri,Jelambar,Grogol Petamburan,Jakarta Barat,Pool Gerobak,18,Pemda,12
+Jl. Kav Polri,Jl. Kav Polri,Jelambar,Grogol Petamburan,Jakarta Barat,Pool Gerobak,18,Pemda,12
+Jl.  Prof Latumenten,Jl.  Prof Latumenten,Jelambar,Grogol Petamburan,Jakarta Barat,Pool Gerobak,18,Pemda,12
+Dipo komp hankam rw 02,Jl kepodang ,Palmerah,Palmerah,Jakarta Barat,Dipo,260,Dinas tata air,16
+Lps rw 03 palmerah,Jl kemanggisan pulo,Palmerah,Palmerah,Jakarta Barat,Pool Gerobak,300,PU Jalan / pinggir kali,36
+Darmais Rt. 07 Rw. 09,JL. H. Saman,Kota Bambu selatan,Palmerah,Jakarta Barat,Pool Container,18,Bina Marga,10
+Museum tekstil Rw. 01,JL. KS. Tubun,Kota Bambu Selatan,Palmerah,Jakarta Barat,Pool Container,35,Museum,5
+dipo jati pulo,jln. tomang raya rt 11 rw 04,jati pulo,palmerah,Jakarta Barat,Dipo,400,bina marga,32
+pool container,jln banjir kanal barat rw 10,jati pulo,palmerah,Jakarta Barat,Pool Container,30,bina marga,6
+Kamboja raya,Jl. Kamboja raya RW. 07 ,Kota Bambu Utara,Palmerah,Jakarta Barat,Pool Container,40,Bina marga,10
+JPO ks. Tubun 1,Jl. Ks. Tubun 1,Kota Bambu Utara,Palmerah,Jakarta Barat,Pool Gerobak,40,Bina marga,8
+Lps rw 09 kemanggisan,Jl budi raya,Kemanggisan ,Palmerah ,Jakarta Barat,Pool Gerobak,40,Pinggir jalan,12
+Container pasar slipi,Jl kemanggisan ,Kemanggisan,Palmerah ,Jakarta Barat,Pool Container,30,Pasar slipi,6
+Lps 01 kemanggisan ,Jl inspeksi ujung ,Kemanggisan,Palmerah,Jakarta Barat,Pool Gerobak,50,Binamarga,8
+Tps taman cattleya,Jl nasional 1,Kemanggisan,Palmerah,Jakarta Barat,Pool Container,50,Pertamanan,10
+Lps Rw 05 Kemanggisan,Jl Kemanggisan Utama,Kemanggisan ,Palmerah ,Jakarta Barat,Pool Gerobak,50,Binamarga,30
+Lps Rw 02 Slipi,Jl Ks Tubun ,Slipi,Palmerah ,Jakarta Barat,Pool Gerobak,75,Binamarga,15
+Lps Rw 06 Slipi,Jl Ks Tubun ,Slipi,Palmerah ,Jakarta Barat,Pool Gerobak,12,Pemerintah Polri,6
+Lps Rw 06 Slipi,Jl Ks Tubun ,Slipi,Palmerah ,Jakarta Barat,Pool Gerobak,8,Pemerintah Polri,6
+Rw 015 Kel. Kapuk,Jl. Daan mogot Estate Kapuk Cengkareng Jakarta Barat,Kel. Kapuk,Cengkareng,Jakarta Barat,Pool Container,42,Milik perumahan Daan Mogot Estate,7
+LPS RW.03 Cengkareng Timur,Jalan Bangun Nusa Cengakreng Timur,Cengkareng Timur,Cengkareng,Jakarta Barat,Pool Container,70,Milik PLN ,13
+LPS RW.13 Cengkareng Timur,Jalan Pedongkelan Raya No.15-16 Cengkareng Timur,Cengkareng Timur,Cengkareng,Jakarta Barat,Pool Gerobak,75,Lahan Milik Dinas PU Air,10
+LPS RW.11 Cengkareng Timur,Jalan Outer ring road Cengkareng Timur,Cengkareng Timur,Cengkareng,Jakarta Barat,Pool Gerobak,60,Jalan Umum,30
+Tps Rw 016 Kel. Kapuk,"Jl. Kapuk Pasar Alam, Kapuk-Cengkareng Jakarta Barat",Kapuk,Cengkareng,Jakarta Barat,Pool Gerobak,150,Warga,13
+Tps Rw 08 Kel. Kapuk,"Jl. Cengkareng Indah, Kapuk Cengkareng Jakarta Barat",Kapuk,Cengkareng,Jakarta Barat,Pool Gerobak,200,Milik Perumahan Cengkareng Indah,7
+Tps Rw 014 Kel. Kapuk,"Jl. Cengkareng Indah, Kapuk Cengkareng Jakarta Barat",Kapuk,Cengkareng,Jakarta Barat,Pool Gerobak,200,Milik Perumahan Cengkareng Indah,7
+Tps Rw 12 Kel. Kapuk,Jl. Pedongkelan raya Kapuk Cengkareng Jakarta Barat,Kapuk,Cengkareng,Jakarta Barat,Pool Gerobak,40,Jalan umum,13
+LPS Rumah Susun Budha Tzuci Cengkareng Timur,Jln Rusun Cengkareng Indah Blok Dahlia 3 Cengkareng Timur,Cengkareng Timur,Cengkareng,Jakarta Barat,Pool Container,200,Milik Pemda DKI,22
+Tps Rw 03 Kel. Kapuk,Jl. Ptb Cengkareng Indah Kapuk Cengkareng Jakarta Barat,Kapuk,Cengkareng,Jakarta Barat,Pool Gerobak,40,PU Jalan,13
+LPS Rusun Cengkareng Indah,Jln Rusun Cengkareng Indah  Blok Seruni no.8,Cengkareng Timur,Cengkareng,Jakarta Barat,Pool Gerobak,30,Milik Pemprov DKI,10
+Tps Rw 06 Kel. Kapuk,Jl. Pedongkelan Raya Kapuk Cengkareng Jakarta Barat,Kapuk,Cengkareng,Jakarta Barat,Pool Gerobak,80,Milik Pertamanan,7
+Dipo RW.14 Cengkareng Timur,Jalan Rawa Kedaung RT.04/14,Cengkareng Timur,Cengkareng,Jakarta Barat,Dipo,250,Milik Perumnas,25
+LPS RW.15 Cengkareng Timur,Jln Gunung Galunggung Raya blok D1 no.15,Cengkareng Timur,Cengkareng,Jakarta Barat,Pool Gerobak,50,Jalan Umum,12
+LPS RW.06 Cengkareng Timur,Jln Lingkar Luar Cengkareng Timur,Cengkareng Timur,Cengkareng,Jakarta Barat,Pool Gerobak,55,Lahan Jalan Umum ,12
+LPS PD.Pasar Jaya Cengkareng,Jl.Bangun Nusa2 No.1,Cengakareng Timur,Cengkareng,Jakarta Barat,Pool Gerobak,300,Lahan PD Pasar Jaya,22
+LPS Pasar Ganefo,Jl.Cemara No.1B,Cengkareng Barat,Cengkareng,Jakarta Barat,Bak Beton,60,Milik Pasar Jaya,15
+LPS RW.07 Cengkareng Barat,Jalan Cendwrawasih X No.8,Cengkareng Barat,Cengkareng,Jakarta Barat,Pool Container,150,Milik Pemprov DKI,15
+TPS Bambu Larangan,Jl.Bina Serasi III blok E Pegadungan,Cengkareng Barat,Cengkareng,Jakarta Barat,Dipo,200,Milik Dinas Ling.Hidup DKI,15
+LPS RW.15 Cengkareng Barat,Jalan Taman Palm Lestari ,Cengakreng Barat,Cengkareng,Jakarta Barat,Dipo,200,milik perumahan palm,15
+LPS RW.13,Jalan Taman Palm Lestari blok B1 No.6,Cengkareng Barat,Cengkareng,Jakarta Barat,Pool Gerobak,60,Milik palm lestari,11
+LPS RW.16 Cengkareng Barat,Jalan Taman Palm Lestari blok A12,Cengkareng Barat,Cengkareng,Jakarta Barat,Pool Gerobak,150,Lahan Perumahan,15
+LPS RW.11 Cengkareng Barat,Jalan Perumahan KFT Blok A3 No.14,Cengkareng Barat,CENGKARENG,Jakarta Barat,Pool Container,100,Milik Perumahan,12
+LPS Ruko 1000,Jalan Perum KFT seribu ruko,Cengkareng Barat,Cengkareng,Jakarta Barat,Pool Container,100,Milik Perum KFT,15
+LPS RW.08 Cengkareng Barat,Jalan kamal raya cengkareng barat,Cengkareng Barat,Cengkareng,Jakarta Barat,Pool Gerobak,60,Lahan warga,12
+TPS RW.10 FLAMBOYAN,Jln Rusun Flamboyan,Cengkareng Barat,Cengkareng,Jakarta Barat,Pool Gerobak,75,milik pemprov dki,12
+TPS rusun flamboyan,Jln Rusun Flamboyan cengkareng,Cengkareng barat,Cengkareng,Jakarta Barat,Bak Beton,150,milik pemprov dki,12
+Dipo Pasar RW.02 Rawa Buaya,Jl.Darma wanita1 RW.02,Rawa Buaya,Cengkareng,Jakarta Barat,Dipo,200,Pasar Jaya,38
+TPS RW.03 Rw.Buaya,Jl.H.Nimin No.07,Rawa Buaya,Cengkareng,Jakarta Barat,Pool Gerobak,70,Jalan Umum,4
+TPS RW.02 Rawa Buaya,Jl.H.Mamun Saleh No.25,Rawa Buaya,Cengkareng,Jakarta Barat,Pool Gerobak,100,Pergudangan Prima,5
+TPS RW.10 DURI KOSAMBI,Jl.Mawar Utama Blok A3 No.3,Duri Kosambi,Cengkareng,Jakarta Barat,Dipo,250,Pemprov DKI,15
+TPS RW.15,"Sikas, semanan kalideres",Duri kosambi,Cengkareng,Jakarta Barat,Pool Gerobak,150,Milik Perumahan,19
+TPS RW.02 ,Jl.H Sulaiman,Duri Kosambo,Cengkareng,Jakarta Barat,Dipo,250,PEMPROV DKI,25
+Tps Rw 011 Kel. Kapuk,Jl. Kapuk Metro Kapuk Cengkareng Jakarta Barat,Kapuk,Cengkareng,Jakarta Barat,TPS,200,Pemilik Warga,12
+RW.03 KKA,Jl. Komp. Departemen Agama ,Kedaung kali Angke,Cengkareng,Jakarta Barat,Pool Gerobak,100,Pinggir Jalan,18
+Dipo Kopti RW 011 Semanan,Jalan moch Asini komplek pim Kopti Rw 011/009 ,Semanan,Kalideres,Jakarta Barat,Dipo,360,Koperasi Kopti,6
+TPS RW RW 003 Semanan,Jalan Kampung malang RT. 002/003 Semanan,Semanan,Kalideres,Jakarta Barat,Pool Container,160,Milik Warga,8
+TPS RW 01 Semanan,Jalan Daan Mogot RW 001 Semanan,Semanan,Kalideres,Jakarta Barat,Pool Gerobak,60,Bahu Jalan ,12
+TPS RW 002 Semanan,Jalan baru kali mokevart daan mogot,Semanan,Kalideres,Jakarta Barat,Pool Gerobak,60,Bahu jalan,22
+TPS RW 005 Semanan,Jalan mokevart daan mogot ,Semanan,Kalideres,Jakarta Barat,Bak Beton,50,Bahu jalan,15
+Tps Kojan RW 006 Kalideres,Jalan kojan RW 006,Kalideres,Kalideres,Jakarta Barat,Pool Gerobak,60,Bahu jalan,12
+TPS kodam kalideres,Komplek kodam ,Kalideres,Kalideres,Jakarta Barat,Bak Beton,75,Milik Kodam,10
+TPS RW 015 Kalideres,Citra 1 ext kalideres,Kalideres,Kalideres,Jakarta Barat,TPS,320,Milik komplek citra garden,6
+Tps PD pasar jaya kalideres,Pasar perumahan citra ,Kalideres,Kalideres,Jakarta Barat,Pool Container,20,PD Pasar Jaya,6
+TPS RW 008 ,Jalan citra 1 RW 008 kalideres,Kalideres,Kalideres,Jakarta Barat,TPS,300,Milik komplek citra 1,22
+Tps Sumur Bor,Jalan Raya Sumur Bor,Kalideres,Kalideres,Jakarta Barat,Bak Beton,20,Bahu Jalan,10
+TPS Utan Jati,Jalan Rata Utan jati RW 011,Pegadungan,Kalideres,Jakarta Barat,Pool Gerobak,35,Bahu Jalan,12
+TPS Bulak Teko,Jalan bulak teko kalideres,Kalideres,Kalideres,Jakarta Barat,TPS,700,Milik RW,25
+Tps Pasar Pisang,Jalan peta selatan pasar pisang kalideres,Kalideres,Kalideres,Jakarta Barat,Pool Container,24,milik PD Pasar,6
+Dipo RW. 009/010 kalideres,Komplek Citra Blok F RW.  009,Kalideres,Kalideres,Jakarta Barat,Dipo,600,Milik Pemda,22
+Tps RW 016 kalideres,Komplek Citra 1 blok A RW. 016,Kalideres,Kalideres,Jakarta Barat,TPS,300,Milik Citra,8
+Tps RW 014 pegadungan,Komplek puri mansion,Pegadungan,Kalideres,Jakarta Barat,Pool Container,300,Milik puri mansion,10
+Dipo RW 001 Pegadungan,Jalan Kali Maja RW 001  Pegadungan,Pegadungan,Kalideres,Jakarta Barat,Dipo,300,Milik Pemda,22
+TPS RW 007 Pegadungan,Jalan Kali Maja ,Pegadungan,Kalideres,Jakarta Barat,Pool Gerobak,200,Milik Warga,22
+TPS Merpati RW 010 Pegadungan,Komplek merpati RW 010 Pegadungan,Pegadungan,Kalideres,Jakarta Barat,TPS,120,Milik komplek Merpati,8
+Tps RW 013 Pegadungan,Komplek Citra 3 RW 013 pegadungan,Pegadungan,Kalideres,Jakarta Barat,Pool Container,800,Milik Citra Garden 3,12
+TPS RW 003 Pegadungan,Komplek Taman Surya RW 003 Pegadungan,Pegadungan,Kalideres,Jakarta Barat,Pool Gerobak,200,Milik Taman Surya,22
+Tps RW 015 pegadungan,Komplek Taman Surya RW. 015,Pegadungan,Kalideres,Jakarta Barat,Pool Gerobak,180,Milik RW,22
+Dipo RW 009 Pegadungan,Jalan Bambu Larangan,Pegaudngan,Kalideres,Jakarta Barat,Dipo,700,Milik Warga,22
+Dipo RW 004 Tegal Alur,Komplek Menceng,Tegal Alur,Kalideres,Jakarta Barat,POOL GEROBAk,300,Pemda,16.2
+Dipo RW 010 Kamal,citra 5,Kamal,Kalideres,Jakarta Barat,DIPO,20,Fasilitas Umum,14
+TPS Terbuka RW 003 Kamal,Jl. Sahabat Kamal,Kamal,Kalideres,Jakarta Barat,POOL GEROBAk,15,Fasilitas Umum,17
+RW Terbuka 008 Kamal,Jl. Benda Raya walungan,Kamal,Kalideres,Jakarta Barat,POOL GEROBAk,200,Fasilitas Umum,20
+PD Pasar RW 002 Kamal ,JL. Kamal benda Raya,Kamal,Kalideres,Jakarta Barat,POOL GEROBAk,15,Fasilitas Umum,6
+TPS Terbuka RW 005 Kamal,Jl. Sahabat Kamal,Kamal,Kalideres,Jakarta Barat,POOL GEROBAk,15,Fasilitas Umum,20
+RW. 009 Semanan,Jl. Semanan Raya,Semanan,Kalideres,Jakarta Barat,Pool Gerobak,32,fasilitas umum,12
+Pasar Rawa Lele Kalideres,Jl. rawa Lele,Kalideres,Kalideres,Jakarta Barat,Bak Beton,45,Pasar Rawa Lele,12
+RW. 009 Pegadungan,Jl. Kali Maja,Pegadungan,Kalideres,Jakarta Barat,Pool Gerobak,25,jl raya,10
+Rw. 014 Kalideres,Komplek Kalideres Permay,Kalideres,Kalideres,Jakarta Barat,Pool Container,30,fasilitas umum,12
+TPST Permata Tegal Alur,Jl. Permata Tegal Alur,Tegal Alur,Kalideres,Jakarta Barat,Pool Gerobak,320,fasilitas umum,10
+Rw 02,Jl. Mangga Besar IX,Tangki,Tamansari,Jakarta Barat,Pool Container,50,Swadaya,3
+Tps Rw. 01 ,Jl. Pancoran Raya  Glodok ,Glodok,Tamansari,Jakarta Barat,Pool Gerobak,14,Bahu Jalan,11
+Tps  Rw. 03 ,Jl. Keadilan 5 Glodok ,Glodok,Tamansari,Jakarta Barat,Pool Gerobak,12,Bahu Jalan,5
+" Tps Rw. 02, 04 ",Jl. Keadilan 5 Glodok ,Glodok,Tamansari,Jakarta Barat,Pool Gerobak,12,Bahu Jalan,8
+Tps Rw. 05 ,Jl. Keadilan 5 Glodok ,Glodok,Tamansari,Jakarta Barat,Pool Gerobak,12,Bahu Jalan,7
+PD Pasar Glodok City ,Jl. Pancoran Glodok City ,Glodok,Tamansari,Jakarta Barat,Pool Container,15,Lahan Pasar,8
+Rw 10 ,Jl. Inspeksi Kali Krukut,Keagungan ,Tamansari,Jakarta Barat,Pool Container,50,Bahu jalan ,5
+Rw. 01 s/d 09 ,Jl. Inspeksi Kali Krukut,Keagungan ,Tamansari,Jakarta Barat,Pool Gerobak,30,Bahu Jalan,18
+Pasar Gang Kancil ,Jl. Keamanan ,Keagungan ,Tamansari,Jakarta Barat,Pool Container,80,Bahu Jalan,6
+Rw 03 ,Jl. Talib ,Krukut,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu jalan ,4
+Pasar Krukut Rw 02,Jl. Pasar Krukut ,Krukut,Tamansari,Jakarta Barat,Pool Container,40,swadaya ,5
+Rw 01 s/d 09,Jl. Inspeksi Kali Krukut,Krukut,Tamansari,Jakarta Barat,Pool Gerobak,50,swadaya masyarakat,18
+"Rw 07, Rw 08",Jl. Ketapang Utara ,Krukut ,Tamansari,Jakarta Barat,Pool Gerobak,100,Swadaya Masyarakat ,8
+Rw 06,Jl. Talib ,Krukut ,Tamansari ,Jakarta Barat,Pool Container,50,Swadaya Masyarakat ,4
+Rw 02,Jl. Manggis Raya ,Mangga Besar,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,4
+"Rw 04, 05 ",Jl. Mangga Besar V,Mangga Besar,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,10
+Pasar HWI,Jl. Mangga Besar V,Mangga Besar ,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,4
+Rw 01,Jl. Manggis Raya ,Mangga Besar,Tamansari ,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,3
+Rw 03,Jl. Mangga Besar V ,Mangga Besar ,Tamansari ,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,7
+TPS Rw. 03 ,Jl. Tamansari Raya,Maphar,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu Jalan,6
+"TPS Rw. 04, 05, 06 ",Jl. Kebun Jeruk IX,Maphar,Tamansari,Jakarta Barat,Pool Gerobak,75,Bahu Jalan ,10
+TPS Rw. 08 ,Jl. Kebun Jeruk XVIII,Maphar,Tamansari,Jakarta Barat,Pool Container,50,Bahu Jalan ,5
+TPS Rw. 09 ,Jl. Kebun Jeruk XVIIII,Maphar,Tamansari,Jakarta Barat,Pool Container,96,Bahu Jalan,18
+Pasar Mangga Besar  ,Jl. Hayam Wuruk ,Maphar,Tamansari,Jakarta Barat,Bak Beton,25,Bak Beton,3
+TPS Rw 01,Jl. Alpu ,Maphar,Tamansari,Jakarta Barat,Pool Container,50,Swadaya,5
+Pasar PD Jaya Sawah Besar,Jl. Kebun Jeruk XVI,Maphar,Tamansari,Jakarta Barat,Pool Container,45,Bahu Jalan,5
+Rw 06 Gloria ,Jl. Pintu Besar Utara ,Pinangsia ,Tamansari,Jakarta Barat,Pool Container,50,Bahu Jalan ,5
+"Rw 01, 02,0,3,04",Jl. Mangga Dua Raya ,Pinangsia ,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,10
+Rw 05,Jl. Pinangsia Raya ,Pinangsia ,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,4
+Rw 05,Jl. Pangeran Jayakarta ,Pinangsia ,Tamansari,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,6
+Rw 06 Balokan ,Jl. Balokan ,Pinangsia ,Tamansari,Jakarta Barat,Pool Container,50,Swadaya ,4
+Rw 01 Pasar ,Jl. Pangeran Jayakarta ,Pinangsia ,Tamansari,Jakarta Barat,Pool Container,50,Bahu Jalan ,5
+Rw 07,Jl. Kunir  ,Pinangsia ,Tamansari,Jakarta Barat,Pool Gerobak,50,PT. KAI,2
+Toko asemka ,Jl. Asemka Raya ,Pinangsia ,Tamansari,Jakarta Barat,Bak Beton,50,Gedung Asemka ,3
+Pancoran Gloria,Jl. Pancoran Gloria,Pinangsia ,Tamansari,Jakarta Barat,Pool Container,50,Bahu Jalan,5
+Stasiun Beos ,Jl. Lada ,Pinangsia,Tamansari ,Jakarta Barat,Bak Beton,100,Stasiun Ka ,4
+Rw 06 Inspeksi Kunir ,Jl. Inpeksi Kunir ,Pinangsia ,Tamansari ,Jakarta Barat,Pool Gerobak,50,Bahu Jalan ,10
+Museum Bank Mandiri ,Jl. Pintu Kecil II,Pinangsia ,Tamansari ,Jakarta Barat,Pool Container,50,Museum Bank Mandiri ,1
+Rw 01,Jl. Acc ,Pinangsia ,Tamansari ,Jakarta Barat,Bak Beton,25,swadaya ,5
+Pasar Pecah Kulit ,Jl. Pasar Pecah Kulit ,Pinangsia ,Tamansari ,Jakarta Barat,Pool Container,50,Bahu Jalan,5
+Rw. 01 Jl. Tamansari Raya,Jl. Tamansari Raya,Tamansari,Tamansari,Jakarta Barat,Pool Gerobak,125,Bahu Jalan,18
+"Rw. 06, 07Jl. Tamansari Raya",Jl. Tamansari Raya,Tamansari,Tamansari,Jakarta Barat,Pool Gerobak,100,Bahu Jalan,14
+Rw. 04 Jl. Mangga Besar 8,Jl. Tamansari Raya 8,Tamansari,Tamansari,Jakarta Barat,Pool Gerobak,75,Bahu Jalan,7
+Rw. 08 Jl. Kebon Jeruk 9,Jl. Kebon Jeruk 9,Tamansari,Tamansari,Jakarta Barat,Pool Container,45,Bahu Jalan,4
+Pasar Asem Reges ,Jl. Tamansari Raya,Tamansari,Tamansari,Jakarta Barat,Pool Container,45,Perusahaan,6.33
+"Rw. 02, 03, 05 Jl. Mangga Besar 2",Jl. Mangga Besar 2 ,Tamansari,Tamansari,Jakarta Barat,Pool Gerobak,125,Bahu Jalan,212
+Rumah Susun-Angke,Jl. Rumah Susun RW 11 , Angke ,Tambora,Jakarta Barat,Bak Beton ,15, Rusun ,11.9
+Psr Jembatan Dua,Psr Jembatan Dua Jl. Tb Angke RW 01, Angke ,Tambora,Jakarta Barat,Pool Container,30, PD Pasar ,11.8
+LPS Padamulya,Jl. Padamulya Rw 08 , Angke ,Tambora,Jakarta Barat,Pool Gerobak ,150, Jl. Raya ,28.33
+LPS Pasar Ayam RW.01 ,Pasar Ayam RW.01 , Angke ,Tambora,Jakarta Barat,Pool Gerobak ,30, Jl. Raya ,15.14
+LPS Duri Selatan 8 RW 05,Jl. Duri Selatan 8 RW 05, Duri selatan ,Tambora,Jakarta Barat,Pool Gerobak ,30, Jl. Raya ,20.33
+LPS Duri Raya Rw 04 ,Jl. Duri Raya Rw 04 , Duri selatan ,Tambora,Jakarta Barat,Pool Gerobak ,30, Jl. Raya ,21.8
+Dipo Duri Utara,Jl. Duri Utara III Rw 02 , Duri Utara ,Tambora,Jakarta Barat,Dipo,210, Pemda ,23.9
+LPS  Jembatan Besi RW 05  Segitiga Velbak,Jl. Jembatan Besi RW 05  Segitiga Velbak, Jembatan Besi ,Tambora,Jakarta Barat,Pool Gerobak ,45, Jl. Raya ,31.76
+LPS Duri Bangkit Rw 09 ,Jl. Duri Bangkit Rw 09 , Jembatan Besi ,Tambora,Jakarta Barat,Pool Gerobak ,30, Jl. Raya ,28.22
+Kali Item RW. 01 ,Kali Item RW. 01 , Jembatan Besi ,Tambora,Jakarta Barat,Pool Container,30, Jl. Raya ,15.95
+Kali Item RW. 02 ,Kali Item RW. 02 , Jembatan Besi ,Tambora,Jakarta Barat,Pool Container,30, Jl. Raya ,14.99
+Lintas Kali Item,Lintas Kali Item, Jembatan Besi ,Tambora,Jakarta Barat,Bak Beton,30, Jl. Raya ,16.2
+Psr Jembatan Besi,Psr Jembatan Besi, Jembatan Besi ,Tambora,Jakarta Barat,Bak Beton,30, PD Pasar ,16.98
+Dipo Gudang Bandung,Jl. Gudang Bandung RW 07, Jembatan Lima ,Tambora,Jakarta Barat,Dipo,300, Pemda ,24.33
+LPS BKB Kalianyar,Jl. Setia Kawan Barat  - LPS BKB Season City, Kalianyar ,Tambora,Jakarta Barat,Pool Gerobak,60, Jl. Raya ,30.59
+LPS Pekojan, Jl. Pejagalan Raya RW.05 , Pekojan ,Tambora,Jakarta Barat,Pool Gerobak,250, Milik Tata Air ,33.8
+Pasar Pagi - Kolong, Jl. Perniagaan Barat RW 01 Pasar Pagi , Roa Malaka ,Tambora,Jakarta Barat,Pool Gerobak,72, Pemda ,17.15
+Dipo Hanura, Jl. Hanura Raya Rw 015 , Tanah Sereal ,Tambora,Jakarta Barat,Dipo,875, Pemda ,273.36
+Dipo Taman Kota,Jl.perumahan taman kota blok b1 no.2,Kembangan utara,Kembangan,Jakarta Barat,Dipo,300,Pemda,14
+Rw. 06 Basmol,Jl. Basmol no.93,Kembangan utara,Kembangan,Jakarta Barat,Pool Container,12,Binamarga/jalan,12
+Pasar kemiri Rw.10,Jl. Kembangan baru no.18,Kembangan utara,Kembangan,Jakarta Barat,Pool Gerobak,10,Binamarga/jalan,14
+Kembangan baru Rw.03,Jl.kembangan baru I blok AA no.2,Kembangan utara,Kembangan,Jakarta Barat,Pool Container,20,Warga,7
+RPTRA Kembangan Selatan,Jalan kembangan abadi,Kembangan selatan,Kembangan,Jakarta Barat,Pool Gerobak,15,Komplek,10
+Blok D ,Jl.kembang sakti timur raya,Kembangan selatan,Kembangan,Jakarta Barat,Pool Container,20,Komplek,7
+RPTRA Kembangan Utara,Jl.kembang utara blok haji riman no.19,Kembangan utara,Kembangan,Jakarta Barat,Pool Gerobak,20,PU Air / pinggir kali,18
+BPN,Jl.kembangan utara no.7,Kembangan utara,Kembangan,Jakarta Barat,Pool Gerobak,12,Binamarga/jalan,12
+CNI,Jl.puri lkr.luar blok t4 no.12,Kembangan selatan,Kembangan,Jakarta Barat,Pool Gerobak,15,Binamarga/jalan,22
+Walikota JB,Puri Wangi No. 20 Kembangan Selatan,Kembangan selatan,Kembangan,Jakarta Barat,Pool Container,9,Kantor Walkot JB,6
+Lps Pasar Minggu,Jl. Raya Kembangan Selatan No. 31,Kembangan selatan,Kembangan,Jakarta Barat,Pool Gerobak,25,Bina marga,6
+Pasar Taman Aries,Jl.Aries utama No.64,Meruya utara,Kembangan,Jakarta Barat,Pool Container,14,Perumahan taman aries,7
+Pintu Tol Taman Aries Rw.02,Jl.Kembang Kencana No.25,Meruya utara,Kembangan,Jakarta Barat,Pool Gerobak,25,Pemda/Jalan umum,20
+Jl.Intan Rw.11,Jl.Intan 2 blok F13 No.11,Meruya utara,Kembangan,Jakarta Barat,Pool Gerobak,25,Binamarga/jalan umum,18
+Pasar Lokbin,Mawar merah blok A18 No.3,Meruya utara,Kembangan,Jakarta Barat,Pool Container,10,Pasar,4
+Lps Mercubuana,Jl.Tol Lingkar Luar Jakarta W2,Meruya selatan,Kembangan,Jakarta Barat,Pool Gerobak,50,Dinas Olahraga,84
+Pasar Lokbin,Mawar merah blok A18 No.3,Meruya utara,Kembangan,Jakarta Barat,Pool Container,10,Pasar,4
+Pasar Taman Aries,Jl.Aries utama No.64,Meruya utara,Kembangan,Jakarta Barat,Pool Container,14,Perumahan taman aries,7
+Pintu Tol Taman Aries Rw.02,Jl.Kembang Kencana No.25,Meruya utara,Kembangan,Jakarta Barat,Pool Gerobak,25,Pemda/Jalan umum,20
+Jl.Intan Rw.11,Jl.Intan 2 blok F13 No.11,Meruya utara,Kembangan,Jakarta Barat,Pool Gerobak,25,Binamarga/jalan umum,18
+Dipo Kebo,"Jl. Penyelesaian Tomang III, Meruya Utara Kembangan",Meruya Utara,Kembangan,Jakarta Barat,Dipo,220,Pemda,24
+Lps Mercubuana,Jl.Tol Lingkar Luar Jakarta W2,Meruya selatan,Kembangan,Jakarta Barat,Pool Gerobak,50,Dinas Olahraga,84
+Lps Kopilas,Gg. H. Mansur No.48,Joglo,Kembangan,Jakarta Barat,Pool Gerobak,90,Pt. Kopilas,100
+Rw.03 Damkar,Jl. Pemadam No.53,Joglo,Kembangan,Jakarta Barat,Pool Gerobak,12,Tanah Wakaf,20
+Komplek damkar rw.02,Jl.Dahlia No.42,Joglo,Kembangan,Jakarta Barat,Pool Container,30,Komplek damkar,4
+Taman Alfa Indah,Jl. Palem No. 38,Joglo,Kembangan,Jakarta Barat,Pool Container,14,Komplek,8
+Abata,Jl. H. Mandor Salim Blok GBSN Bonang No. 32A,Srengseng,Kembangan,Jakarta Barat,Pool Container,15,Sekolahan,7
+RW 010 PETUKANGAN UTARA,Jl. Masjid Darul Falah,Petukangan Utara,Pesanggrahan,Jakarta Selatan,Pool Gerobak,50,Pribadi,2
+RW 003 ULUJAMI,Jl. H. Rohimin,Ulujami,Pesanggrahan,Jakarta Selatan,Pool Gerobak,1000,Pribadi,9
+RW 004 ULUJAMI,Jl. Kelurahan,Ulujami,Pesanggrahan,Jakarta Selatan,Pool Gerobak,30,Pemda,10
+RW 007 ULUJAMI,Jl. Inspeksi,Ulujami,Pesanggrahan,Jakarta Selatan,Pool Gerobak,100,Pemda,10
+RW 02 Setiabudi,Jl.Setiabudi Selatan Rw 02,Setiabudi,Setiabudi,Jakarta Selatan,Pool Gerobak,30,MIlik Pemda,8
+TPS Kampung kandang,Jalan M. Kahfi 1 (TPU kp.kandang),Jagakarsa,Jagakarsa,Jakarta Selatan,TPS 3R,500,Pemda DKI,20
+LPS IISIP Lenteng Agung,Jalan Lenteng Agung barat,Lenteng Agung,Jagakarsa,Jakarta Selatan,TPS,500,Pemda DKI,2
+TPS RW.02 H. Shibi,Jalan Lt. Agung timur Gg. H. Shibi,Srengseng sawah,Jagakarsa,Jakarta Selatan,TPS,50,Pemda DKI,8
+Kober ,Jl Kebagusan 1,Kebagusan,Pasar Minggu,Jakarta Selatan,TPS,50,Sudin Lingkungan Hidup,20
+Jalan Buntu,Jalan Buntu RW. 01 ,Pasar Minggu,Pasar Minggu,Jakarta Selatan,TPS,10,UMKM,8
+RW 011 RENGAS,Jl. Rengas,Bintaro,Pesanggrahan,Jakarta Selatan,TPS 3R,1000,Pemda,8
+PD Pasar Karet Belakang,Jl. Karet Belakang,Karet,Setiabudi,Jakarta Selatan,TPS,24,Milik Pemda ,8
+Tps menteng atas,Jl.Muria Raya,Menteng Atas,Setiabudi,Jakarta Selatan,TPS 3R,900,Milik Pemda,5
+PD Pasar Rumput,Jl. Raya Sultan Agung No. 5,Pasar Manggis,Setiabudi,Jakarta Selatan,TPS,40,Milik Pemda,6
+LPS Pasar Pedok,Jalan Masjid An Nur,Menteng Dalam,Tebet,Jakarta Selatan,TPS,16,Memakai bahu jalan,6
+TPS H. Nusi,Jl. Gandaria V 010/02 Kel. Jagakarsa Kec. Jagakarsa,Jagakarsa,Jagakarsa,Jakarta Selatan,TPS 3R,1100,Pribadi M. Nusi,10
+TPS Asrama DLH,Asrama Dinas LH,Lenteng Agung,Jagakarsa,Jakarta Selatan,TPS 3R,210,Dinas LH,10
+TPS KTLH Sangga Buana,Karang Tengah RW 03 ,Lebak Bulus,Cilandak,Jakarta Selatan,TPS 3R,42,Dinas Kehutanan,10
+Conteiner,Rw 015 Eramas,Pulo gebang,Cakung,Jakarta Timur ,Pool Container,50,Perumahan,2
+Terminal Terpadu,Terminal Terpadu,Pulo gebang,Cakung,Jakarta Timur ,Bak Beton,16,Terminal,6
+kodim,Kodim,Pulo gebang,Cakung,Jakarta Timur ,Pool Container,12,Pemda,1
+bak pos,kantor pos,Pulo gebang,Cakung,Jakarta Timur ,Bak Beton,0.85,bahu jalan,3
+Conteiner,Rw 011,Cakung timur,Cakung,Jakarta Timur ,Pool Container,18,bahu jalan,10
+Conteiner,Rw 04,Cakung timur,Cakung,Jakarta Timur ,Pool Container,80,tanah pengairan,10
+Pool gerobak,RW 01,Cakung Timur,Cakung,Jakarta Timur ,Pool Gerobak,20,tanah pengairan,10
+Container,Rw 02,Cakung Timur,Cakung,Jakarta Timur ,Pool Container,18,bahu jalan,10
+Pool Gerobak,Rw 03,Cakung Timur,Cakung,Jakarta Timur ,Pool Gerobak,50,bahu jalan,20
+Bak Damri,Damri Jl. KRT Radjiman,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,4.5,Bahu jalan,6
+Bak ocid,Bak Rt 010 Rw 004,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,2,Bahu jalan,3
+Bak Beton,Rt 014 Rw 004,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,2,bahu jalan,3
+Bak Beton,Rt 011 Rw 004,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,4,bahu jalan,3
+Bak Gardu ,Rw 012 Jl. KRT Radjiman,Jatinegara,Cakung,Jakarta Timur ,Bak Beton,6,bahu jalan,10
+Bak Arion,Jl. KRT Radjiman,Jatinegara,Cakung,Jakarta Timur ,Bak Beton,6,Bahu jalan,10
+Conteiner,Pengadilan militer,Penggilingan,Cakung,Jakarta Timur ,Pool Container,18,Pengadilan  militer,1
+Container,Pasar simpang,Penggilingan ,Cakung,Jakarta Timur ,Pool Container,15,Pasar,5
+Pool Gerobak,Jl. gergaji Rw 01,Jatinegara,Cakung,Jakarta Timur ,Pool Gerobak,20,bahu jalan,20
+Pool Gerobak,Rw 03,Jatinegara,Cakung,Jakarta Timur ,Pool Container,20,bahu jalan,6
+Pasar Klender SS,Pasar Klender SS,Jatinegara,Cakung,Jakarta Timur ,Pool Container,28,Pasar,14
+Pool gerobak,Rw 07,Cakung Barat,Cakung,Jakarta Timur ,Pool Gerobak,30,tanah perumnas,15
+Container,Rusun Pulo Gebang,Pulo Gebang,Cakung,Jakarta Timur ,Pool Container,18,Rusun,3
+Rusun Pulo Gebang,Rusun Pulo Gebang,Pulo Gebang,Cakung,Jakarta Timur ,Bak Beton,2,Rusun,6
+Rusun Rawa Bebek,Rusun Rawa Bebek,Pulo gebang,Cakung,Jakarta Timur ,Bak Beton,2,Rusun,6
+Conteiner,Pasar pulo jahe,Jatinegara,Cakung,Jakarta Timur ,Pool Container,32,Pasar,10
+LPS terbuka,rw 08 Rawa bebek,Jatinegara,Cakung,Jakarta Timur ,TPS,50,bahu jalan,18
+Pool Gerobak,Rw 08,Jatinegara,Cakung,Jakarta Timur ,Pool Gerobak,54,bahu jalan,60
+Pasar Cakung,Pasar Cakung,Cakung Barat,Cakung,Jakarta Timur ,Bak Beton,3.75,Pasar,6
+Rusun Albo,Rusun albo,Cakung Barat,Cakung,Jakarta Timur ,Bak Beton,3,Rusun,8
+Container,Pasar Cakung,Cakung Barat,Cakung,Jakarta Timur ,Pool Container,24,Pasar,8
+Bak Beton,Rw 03 Jl. komarudin,Cakung Barat,Cakung,Jakarta Timur ,Bak Beton,2.5,bahu jalan,3
+Bak Beton,Rw 06 Palad,Cakung Barat,Cakung,Jakarta Timur ,Bak Beton,15,Bahu jalan,4
+Container,Rw 07 Jl. irigasi kalimalang,Cakung Barat,Cakung,Jakarta Timur ,Pool Container,18,bahu jalan,10
+Container,Rw 04,Cakung Barat,Cakung,Jakarta Timur ,Pool Container,50,bahu jalan,16
+Bak Beton,Rusun Pulo Jahe,Jatinegara,Cakung,Jakarta Timur ,Bak Beton,3,Rusun,3
+Lps terbuka,Rw 07,Pulo gebang,Cakung,Jakarta Timur ,TPS,200,BKT,80
+Bak Beton,Rt 014 Rw 004,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak indomart,Bak Rt 013 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak beton,Rt 006 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak beton,Rt 002 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,4,Bahu jalan,3
+Bak beton,Rt 002 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,6,Bahu jalan,3
+Bak beton,Rt 009 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,1.5,Bahu jalan,3
+Bak betob,Rt 001 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak beton,Rt 001 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,2,Bahu jalan,3
+Bak beton,Rt 005 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak beton,Rt 005 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalab,3
+Bak beton,Rt 005 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalab,3
+Bak beton ,Rt 004 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak beton,Rt 003 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak beton,Rt 002 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Bak beton,Rt 005 Rw 006,Rawa terate,Cakung,Jakarta Timur ,Bak Beton,3,Bahu jalan,3
+Swadaya Murni,Jl. Swadaya Murni Rt.001 Rw.010,Lubang Buaya,Cipayung,Jakarta Timur ,Pool Gerobak,150,Milik warga (Bapak Amsir),10
+Lapangan,Jl. SPG 7 Lapangan Bola,Lubang Buaya,Cipayung,Jakarta Timur ,Pool Gerobak,200,Dinas Pemuda dan Olahraga,20
+Kebun Jati,Jl. Gorda,Lubang Buaya,Cipayung,Jakarta Timur ,Pool Gerobak,150,Yayasan Pesantren Minhaajurrasyidin,10
+Flores,Jl. Flores ,Ceger,Cipayung,Jakarta Timur ,Pool Gerobak,12,Pinggir Jalan Raya Binamarga Ceger,1
+Pagelarang,Jl. Pagelarang,Setu,Cipayung,Jakarta Timur ,Pool Gerobak,15,Pinggir Jalan Pagelarang,3
+Transit jl.Yankes,Jl.Yankes,Munjul,Cipayung,Jakarta Timur ,Pool Gerobak,40,Jalan Umum,20
+Dipo komplek munjul,Komplek Polri Munjul,Munjul,Cipayung,Jakarta Timur ,Dipo,150,Tanah Komplek,20
+Transit Jl.Assyafi'iyah,Jl.Assyafi'iyah,Cilangkap,Cipayung,Jakarta Timur ,Pool Gerobak,150,Pinjam Pakai,10
+Dipo Mawar,Jl.Mawar,Ceger,Cipayung,Jakarta Timur ,Pool Container,75,Pinjam Pakai,10
+Transit Lap.Boneng 1,Jl.Bambu Ulung,Bambu Apus,Cipayung,Jakarta Timur ,Pool Gerobak,200,Pinjam Pakai,20
+Transit Lap.Boneng 2,Jl.Bambu Ulung,Bambu Apus,Cipayung,Jakarta Timur ,Pool Gerobak,200,Pinjam Pakai,20
+Kampus urindo,Jl.Urindo,Bambu Apus,Cipayung,Jakarta Timur ,Bak Beton,50,Milik Kampus Urindo,3
+Bak H Karim,Jl.H Karim,Setu,Cipayung,Jakarta Timur ,Bak Beton,6,Jalan Umum,5
+Kompos,Jl. Kramat I Rt.004/010,Lubang Buaya,Cipayung,Jakarta Timur ,Bak Beton,5,Warga Rt.004/010,1
+Bak beton printis,Jl printis,Ceger ,Cipayung,Jakarta Timur ,Bak Beton,15,Jasa marga,6
+Transit jl.tangki,Jl.tangki,Cipayung,Cipayung,Jakarta Timur ,Pool Gerobak,50,Pinjam Pakai,10
+Transit Madrasah,Jl.Madrasah,Bambu Apus,Cipayung,Jakarta Timur ,Pool Gerobak,100,Pinjam Pakai Tanah warga,5
+Rw 004,Jl. Pangkalan,Pondok Ranggon,Cipayung,Jakarta Timur ,Pool Container,30,Milik warga,10
+Mes Akademi TNI,Jl. Raya Cilangkap Baru,Pondok Ranggon,Cipayung,Jakarta Timur ,Pool Container,30,Milik Akademi TNI,1
+Binamarga,Komplek Binamarga Rw.005,Cipayung,Cipayung,Jakarta Timur ,Pool Container,80,Komplek Binamarga,6
+Manunggal,Jl. H Siun,Ceger,Cipayung,Jakarta Timur ,Pool Container,30,PT Jasamarga,10
+Pengayoman,Jl. Perintis,Ceger,Cipayung,Jakarta Timur ,Bak Beton,8,PT Jasamarga,4
+Pintu air,Jl. Pintu Air,Ceger,Cipayung,Jakarta Timur ,Bak Beton,16,Milik PT Jasamarga,4
+Rt.010 Rw.001,Jl. Mandor Hasan,Bambu Apus,Cipayung,Jakarta Timur ,Bak Beton,9,Di atas Saluran air,3
+Kodam,Jl. Bambu Petung Rw.007,Cipayung,Cipayung,Jakarta Timur ,Pool Container,35,Milik komplek Kodam,6
+Kp Kramat,Jl. Tileng Rw.004,Setu,Cipayung,Jakarta Timur ,Pool Container,30,Milik warga,6
+Kopti,Perumahan Kopti,Setu,Cipayung,Jakarta Timur ,Pool Container,30,Peum Kopti,6
+Ujung Haji Karim,Jl. H Karim,Setu,Cipayung,Jakarta Timur ,Bak Beton,5,Pinggir Jalan H. Karim,3
+Transito Terminal Kp. Rambutan DK,Jl. Supriadi Rw. 006 Kel. Rambutan,Kampung Rambutan ,Ciracas,Jakarta Timur ,TPS 3R,30,Terminal AKAP kampung rambutan,60
+Jl. Manunggal rw. 004,Jl. Manunggal rw. 004,Kampung rambutan,Ciracas,Jakarta Timur ,TPS,50,Pemerintah,20
+TPS Hankam,RT 06 RW 03,Kelapa dua wetan,Ciracas,Jakarta Timur ,Bak Beton,15,Warga RT 06 RW 03,10
+TPS Hankam,Komplek Hankam RT 02 RW 03 ,Kelapa dua wetan,Ciracas,Jakarta Timur ,Bak Beton,6,Warga RT 02 RW 03,6
+Transit pull gerobak rw 08,Jl raya kelapa dua wetan rw 08,Kelapa dua wetan,Ciracas,Jakarta Timur ,Pool Gerobak,100,Pemda DKI Jakarta,20
+Bak Container Yayasan PKP,Jl raya PKP Yayasan PKP,Kelapa dua wetan,Ciracas,Jakarta Timur ,Pool Container,30,Yayasan PKP,1
+Transit Yayasan PKP,Yayasan PKP,Kelapa dua wetan,Ciracas,Jakarta Timur ,Pool Gerobak,30,Yayasan PKP,4
+Bak Kavling III,"Jl. Delima Rt. 04/03, ",Kampung rambutan,Ciracas,Jakarta Timur ,Bak Beton,50,Pemerintah,5
+Bak Kavling II,Jl. Delima rt 13/03 / SD Inpres,Kampung rambutan,Ciracas,Jakarta Timur ,Bak Beton,54,Pemerintah,5
+Bak Kavling I,Jl. Delima Rt. 15/03,Kampung Rambutan ,Ciracas,Jakarta Timur ,Bak Beton,50,Pemerintah,10
+Bak Container RT 04 RW 02,Jl manunggal RT 04 RW 02,Kelapa dua wetan,Ciracas,Jakarta Timur ,Pool Container,3,Jl umum ( trotoar ),2
+Dipo Susukan,Jl H Baping RT 10 RW 06,Susukan,Ciracas,Jakarta Timur ,Dipo,253,Pemda DKI Jakarta,15
+Dipo Bukit Permai,Jl.Raya Jambore ,Cibubur,Ciracas,Jakarta Timur ,Dipo,200,Milik Dinas Perhutanan,32
+TPS Komplek kodam,Komplek Kodam Rw.08 ,Cibubur,Ciracas,Jakarta Timur ,Pool Container,50,Milik warga,20
+TPS KOMPLEK DPRD,Jl. Karya Bakti,Cibubur,Ciracas,Jakarta Timur ,Pool Container,50,Milik warga,4
+TPS GOR CIBUBUR,Jl. Karya bakti,Cibubur,Ciracas,Jakarta Timur ,Pool Container,30,Milik pemda,3
+Pool gerobak Jl. Jambore raya,Jl. Raya Jambore,Cibubur,Ciracas,Jakarta Timur ,Pool Gerobak,30,Milik pemerintah,20
+Hanafi,Jalan hanafi,Ciracas,Ciracas,Jakarta Timur ,Pool Gerobak,4,Milik umum,4
+Puskesmas kec.Ciracas,Jln.H.baping Rt.07/06,Susukan,Ciracas,Jakarta Timur ,Pool Gerobak,300,Milik Pemda,1
+TPS RW 04 jl cipinang,Jl cipinang rw 04,Ciracas,Ciracas,Jakarta Timur ,Pool Gerobak,21,Jl Umum (warga 04),10
+Bak Trophy,RT 16 RW 04 ,Ciracas,Ciracas,Jakarta Timur ,Bak Beton,4,Warga RW 04,10
+TPS UHAMKA,Jl. Merdeka,Kampung rambutan,Ciracas,Jakarta Timur ,Bak Beton,18,Gedung kampus,3
+TPS Alhuda,Jl alhuda RT 01 RW 04 ,Ciracas,Ciracas,Jakarta Timur ,Bak Beton,6,Warga RW 04 Alhuda,10
+TPS SMAN 99 CIBUBUR,Jl. Bulak ringin ,Cibubur,Ciracas,Jakarta Timur ,Pool Container,50,Milik pemerintah,3
+TPS Rusun Pemadam,RT 13 & 14 RW 01 Rusun Pemadam,Ciracas,Ciracas,Jakarta Timur ,Bak Beton,4,Dinas Pemadam Kebakaran,16
+Transit Rw.002 Cibubur,Jl.Lapangan tembak,Cibubur,Ciracas,Jakarta Timur ,Pool Gerobak,100,Milik warga,22
+TPS Poncol,Jl raya poncol RW 01,Ciracas,Ciracas,Jakarta Timur ,Pool Gerobak,20,Jl Umum (bahu jalan),20
+TPS RW.004 ,Jl. Lapangan tembak,Cibubur,Ciracas,Jakarta Timur ,Pool Gerobak,30,Milik pemerintah,1
+TPS Ditkum,Jl. Raya Supriadi,Kampung Rambutan,Ciracas,Jakarta Timur ,Pool Container,18,Pemerintah,10
+TPS jl Meubel,Jl mebel RT 03 RW 03 ,Ciracas,Ciracas,Jakarta Timur ,Pool Gerobak,2,PT Meubel,8
+TPS RW.014 ,Jl. Makam dalam,Cibubur,Ciracas,Jakarta Timur ,Pool Gerobak,30,Milik warga,6
+TPS RSKO CIBUBUR,Jl. Lapangan tembak,Cibubur,Ciracas,Jakarta Timur ,Bak Beton,30,Milik RSKO,4
+TPS RW.006 CIBUBUR,Jl. Lapangan tembak,Cibubur,Ciracas,Jakarta Timur ,Pool Gerobak,50,Milik warga,10
+Bak beton,Jln supriadi rt 11/02,Susukan,Ciracas,Jakarta Timur ,Bak Beton,4,Swadaya warga,5
+Bak beton,Jln supriadi rt 06/05,Susukan,Ciracas,Jakarta Timur ,Bak Beton,6,Taman,4
+Transito jln. Makmur,Gang Makmur rt. 02 Rw. 02,Susukan,Ciracas,Jakarta Timur ,Pool Container,24,PT. Lottle Mart,8
+TPS jl. Makmur 2,Jl. Makmur 2,Susukan,Ciracas,Jakarta Timur ,Pool Container,35,Pemerintah,8
+Bak kontainer jln makmur atas,Jln. Makmur atas,Susukan,Ciracas,Jakarta Timur ,Pool Container,35,Pemerintah,8
+Transisto (Bak Contener ),Jln.makmur atas Rt 08/02,Susukan,Ciracas,Jakarta Timur ,Pool Container,10,Jln umum,8
+Gebras,Jl tanah merdeka,Rambutan,Ciracas,Jakarta Timur ,TPS,48,Tanah Pemerintah,20
+TPS Jl. Asem,Jln. Asem,Ciracas,Ciracas,Jakarta Timur ,Pool Gerobak,28,Pemerintah,20
+Bak jln.madrasa,Jln.madrasa Rt 04/05,Susukan,Ciracas,Jakarta Timur ,Bak Beton,6,Wakap,6
+TPS jl. Hanafi,Jl. Hanafi,Ciracas,Ciracas,Jakarta Timur ,Pool Gerobak,28,Pemerintah ,8
+TPS komplek BLK,"Jl. Melati 2, rt  09 rw 01",Susukan,Ciracas,Jakarta Timur ,Bak Beton,50,Pemerintah,10
+Bak Gudang Air Rw. 02,Jl. Gudang air Rt. 01/02,Kampung Rambutan,Ciracas ,Jakarta Timur ,Bak Beton,50,Tanah warga Bpk khaerul,10
+Bak Rw. 01,Jl. Jenih Rt. 11/06,Kampung Rambutan ,Ciracas ,Jakarta Timur ,Bak Beton,350,Tanah warga "Bpk. Lim",10
+Transito Rw. 006,Jl. Supriadi Rw. 006,Kampung Rambutan ,Ciracas ,Jakarta Timur ,Pool Container,100,Pemerintah,20
+Dipo H.Naman RW 02,Jl H.Naman RT 002 RW 02,Pondok Kelapa,Duren Sawit,Jakarta Timur ,Dipo,600,Fasum,16
+TPS Lampiri RW 05,Jl Raya Lampiri Kalimalang RT 01 RW 05,Pondok Kelapa,Duren Sawit,Jakarta Timur ,Pool Gerobak,40,Wakaf RW 05,7
+TPS Curug H. Amar,Jl raya H. Amar Curug RT 03 RW 08,Pondok Kelapa ,Duren Sawit,Jakarta Timur ,Pool Container,8,Fasum,2
+LPS Bilymoon RW 10,Jl Raya Tipar RT 09 RW 10 Bilymoon,Pondok Kelapa,Duren Sawit,Jakarta Timur ,TPS,60,Fasum,7
+Rw. 06,Jl. Abadi ,Duren Sawit,Duren Sawit,Jakarta Timur ,Pool Gerobak,100,Milik perumahan abadi,10
+Rw 17,Jl. Teluk makasar Kav.AL,Duren sawit ,Duren sawit,Jakarta Timur ,Pool Container,105,Fasum,8
+TPS Kalimalang RW 12,Jl Pondok kelapa Selatan Sumber Arta,Pondok Kelapa,Duren Sawit,Jakarta Timur ,Pool Gerobak,80,Lahan Tol Becakayu,10
+Rw 10,Jl. Perumnas Raya no 1,Malaka sari,Duren sawit,Jakarta Timur ,Pool Gerobak,140,Milik irigasi,20
+Dipo RW 04 Tipar,Jl.Raya Tipar ,Pondok Kelapa,Duren Sawit,Jakarta Timur ,Dipo,325,Fasum,13
+Pool Grobak Rw 011,Jl.Dermaga,Klender,Duren Sawit,Jakarta Timur ,Pool Gerobak,60,Bahu Jalan,15
+Dipo RW 09 Malaka Selatan,Jl.Taman Malaka Selatan,Pondok Kelapa ,Duren Sawit,Jakarta Timur ,Dipo,450,Fasum,23
+Rw. 04,Jl. Naga Raya,Duren Sawit,Duren Sawit,Jakarta Timur ,Pool Gerobak,35,bahu jalan,8
+TPS RT 06 RW 08 Curug,Jl.H.Amar,Pondok Kelapa,Duren Sawit,Jakarta Timur ,Pool Container,6,Fasum,2
+TPS Permata Timur,Jl Permata Timur,Pondok Kelapa,Duren Sawit,Jakarta Timur ,TPS,50,Milik Perum Permata,2
+Dipo RW 11 Manggar,Jl Manggar ,Pondok Kelapa,Duren Sawit,Jakarta Timur ,Dipo,300,Fasum,15
+Dipo marinir,jl.kav marinir,Pondok Kelapa,Duren Sawit,Jakarta Timur ,Dipo,300,milik irigasi,8
+Pool Grobak Rw 013,Jl.IG Ngurah Rai Depan P3,Klender,Duren Sawit,Jakarta Timur ,Pool Gerobak,50,Lapangan Parkir Milik P3,7
+Pool Grobak Pertanian Rw 02,Jl.I Gusti Ngurah Rai,Klender,Duren Sawit,Jakarta Timur ,Pool Gerobak,70,Lahan Terbuka/Pertanian,40
+Rw. 09,Jl. Wijaya kusuma ,Duren Sawit,Duren Sawit,Jakarta Timur ,Pool Gerobak,40,bahu jalan,7
+RW 01,Jl. Swadaya kantor kecamatan,Duren sawit,Duren sawit,Jakarta Timur ,TPS,100,Pemakaman,20
+RW 17,Jl.Teluk Makasar Kav. AL,Duren sawit,Duren sawit,Jakarta Timur ,Pool Container,105,Fasum,8
+Rw. 09,Jalan Bambu Asri Raya,Pondok Bambu,Duren Sawit,Jakarta Timur ,Pool Gerobak,32,Jalur Hijau,5
+Rw. 06,Jalan Buluh Perindu Raya,Pondok Bambu,Duren Sawit,Jakarta Timur ,Pool Gerobak,100,Tanah Lahan DPU,40
+Rw. 05,Jalan Pahlawan Revolusi Bea Cukai,Pondok Bambu,Duren Sawit,Jakarta Timur ,Pool Container,32,Milik Perum Bea Cukai,5
+Dipo Rw 10,Jl.Kampung Sumur,Klender,Duren Sawit,Jakarta Timur ,Dipo,253,Tanah Abri 11 Maret,20
+Bak Beton,Jl.Pahlawan Revolusi,Klender,Duren Sawit,Jakarta Timur ,Bak Beton,6,Bahu Jalan,1
+Pool Container Rw 014,Jl.Taman Buaran Indah,Klender,Duren Sawit,Jakarta Timur ,Pool Container,35,Milik Perumahan Taman Buaran,5
+RW 03,Jl. Kampung rawadas,Pd kopi,Duren sawit,Jakarta Timur ,Pool Gerobak,800,Milik dinas pertanaman,10
+Rw 04,Jl. Pd kopi ujung,Od kopi,Duren sawit,Jakarta Timur ,TPS,48,Milik dinas pertanaman,20
+Dipo Rw 10,Jl.Kampung Sumur,Klender,Duren Sawit,Jakarta Timur ,Dipo,253,Tanah ABRI 11 Maret,20
+TPS. Rw.03,Jl. Kampung Rawadas,Pondok kopi,Duren sawit,Jakarta Timur ,Pool Gerobak,800,Milik Dinas pertamanan,10
+TPS. Rw.04,Jl. Pondok kopi ujung,Pondok kopi,Duren sawit,Jakarta Timur ,TPS,800,Milik Dinas pertamanan,20
+Pool countener,Jl. Terusan I. Gusti ngurah rai depan terminal bayangan Pondok kopi,Pondok kopi,Duren sawit,Jakarta Timur ,Pool Container,35,Milik Perumahan Rw.09,6
+Pool contener Rw.11,Jl. Terusan I. Gusti ngurah rai BKT,Pondok kopi,Duren sawit,Jakarta Timur ,Pool Container,100,Milik Pemda,8
+Rw 014 Pool Container,Jl.Taman Buaran Indah,Klender,Duren Sawit,Jakarta Timur ,Pool Container,35,Milik Prumahan Taman Buaran,5
+Rw.06 Bak Terbuka,Jl.Pahlawan Revolusi,Klender,Duren Sawit,Jakarta Timur ,Bak Beton,6,Bahu Jalan,1
+Dipo Rw 10,Jl.Kampung Sumur,Klender,Duren Sawit,Jakarta Timur ,Dipo,253,Tanah ABRI 11 Maret,20
+RW 16,Jl. Teluk makasar kav.AL,Duren sawit ,Duren Sawit,Jakarta Timur ,Pool Gerobak,50,Fasum,21
+Rw. 08,"Jl. Lingkar Duren Sawit, Komplek PTB",Duren sawit ,Duren sawit ,Jakarta Timur ,Dipo,300,milik perumahan PTB,7
+Rw. 08,"Jl. Lingkar Duren Sawit, Komplek PTB",Duren sawit ,Duren sawit ,Jakarta Timur ,Dipo,300,milik perumahan PTB,7
+Lps wika kel malakajaya kec duren sawit ,Jl.  Igusti ngurah rai,Malakajaya ,Duren sawit ,Jakarta Timur ,TPS,160,Milik prumnas klender,40
+POOL CONTAINER CIPINANG ELOK,Jl.Cipinang Elok Blok Ag No.18,Cipinang Muara,Jatinegara,Jakarta Timur ,Pool Container,200,Tanah Fasum Komp.Perumahan Cipinang Elok,15
+POOL CONTAINER CIPINANG ELOK,Jl.Cipinang Elok Blok Ag No.18,Cipinang Muara,Jatinegara,Jakarta Timur ,Pool Container,200,Tanah Fasum Komp.Perumahan Cipinang Elok,15
+Dipo Barkah,Jl. Bekasi Timur ll Rw 03,Rawabunga,Jatinegara,Jakarta Timur ,Dipo,60,Milik perairan,80
+Dipo Kolong Kp. Melayu,Jl awab,Balimester,Jatinegara,Jakarta Timur ,Dipo,80,Milik Dinas Pertamanan,80
+Dipo Gor Otista,Jl otista raya ,Bidara Cina,Jatinegara,Jakarta Timur ,Dipo,80,Dinas Olah Raga (Pemda),16
+Rusunawa Kp. Melayu,"Rusunawa Kp. Melayu, Jl. Jatinegara Barat ",Kp melayu,Jatinegara,Jakarta Timur ,Bak Beton,6,Pemda Dki,6
+TPS Cawang Kavling,Jl. Cawang Baru Tengah No. 81,Cipinang Cempedak,Jatinegara,Jakarta Timur ,Pool Gerobak,96,Pemda DKI,8
+Pool container Rw 013 Cip. Muara,Jl. Cipinang bali lll Rt 05/013,Cipinang Muara,Jatinegara,Jakarta Timur ,Pool Container,48,Pemda DKI,15
+Rusun Bidara Cina ,"Jl biduri bulan, cawang ",Bidara Cina,Jatinegara,Jakarta Timur ,Pool Gerobak,24,Irigasi ,9
+TPS RW.04 Panti Asuhan,Jl. Panti Asuhan RW. 04,Cipinang Cempedak,Jatinegara,Jakarta Timur ,Pool Container,24,Pemda DKI,16
+Pool container RW. 08,Jl. Kebon Nanas Selatan 1 RW.08,Cipinang Cempedak,Jatinegara,Jakarta Timur ,Pool Container,20,Irigasi,8
+Pool container RW.08,Jl. Kebon Nanas Selatan 1 RW.08,Cipinang Cempedak,Jatinegara,Jakarta Timur ,Pool Container,24,Irigasi,20
+Tps perumpung Gg mayong,Jl Di panjaitan Gg mayong,Cipinang Besar Selatan,Jatinegara,Jakarta Timur ,Bak Beton,10,Pemda DKI,4
+Tps Gg Remaja l,Jl Di panjaitan Gg l perumpung,Cipinang Besar Utara,Jatinegara,Jakarta Timur ,Bak Beton,9,Pemda DKI,3
+Tps Gg Remaja lll,Jl Di panjaitan Gg lll Rw 03 Perumpung,Cipinang Besar Utara,Jatinegara,Jakarta Timur ,Bak Beton,4,Pemda DKI,3
+TPS RW.08 ,Jl. Kebon Nanas selatan 1,Cipinang Cempedak,Jatinegara,Jakarta Timur ,Pool Gerobak,12,Irigasi,8
+Pool container Rw 02 gembrong,Jl Di panjaitan Rw 03 Ps Gembrong,Cipinang Besar Utara,Jatinegara,Jakarta Timur ,Pool Container,35,Pemda DKI,15
+Tps pool gerobak BKT,Jl Basuki rahmat ,Cipinang Besar Selatan ,Jatinegara,Jakarta Timur ,Pool Gerobak,80,Pemda DKI,20
+Tps Rw 05 CBS,Jl panca warga satu Rw 05 ,Cipinang Besar Selatan,Jatinegara,Jakarta Timur ,Pool Container,63,Pemda DKI,15
+Tps totogan ,Jl cipinang cempedak l ,Cipinang Cempedak,Jatinegara,Jakarta Timur ,Pool Gerobak,24,Warga sekitar,10
+Tps Container Rw 02 ,Jl Di panjaitan Rw 02 ,Cipinang Besar Utara,Jatinegara,Jakarta Timur ,Pool Container,35,Pemda DKI,10
+Tps Rw 05 Kelurahan Dukuh,Jl Dukuh V Rt.010Rw.005,Dukuh,Kramat Jati,Jakarta Timur ,Pool Gerobak,20,Hak Milik,10
+Dipo bulak rantai,Jl rantai perak selatan rt 04 rw 05 ,Tengah ,Kr jati,Jakarta Timur ,Dipo,350,Komplek bulak rantai,20
+TPS RW 09,Jl albariah Gg kober rt03 rw 09,Tengah,Kr jati,Jakarta Timur ,Pool Gerobak,600,Warga,10
+TPS Rw 06,Jl murai rt 08 rw 06 komplek paspampres,Tengah,Kr jati,Jakarta Timur ,Pool Container,80,Komplek paspampres,10
+TPS Rw 01,Jl karya rt 06 rw 01,Tengah,Kr Jati ,Jakarta Timur ,Bak Beton,90,Pemerintah,20
+TPS RW 02 Kramat Jati,Jl. SMP 50 (komplek Kodim) RT 09 RW 02,Kramat Jati,Kramat Jati,Jakarta Timur ,Bak Beton,9,Milik Komplek Kodim,10
+TPS RW 03 Kramat Jati,Jl. Nusa 4 RT 10 RW 03,Kramat Jati,Kramat Jati,Jakarta Timur ,Bak Beton,8,Warga,10
+TPS RW 05 Kramat Jati,Jl. RS Polri RT 03 RW 05,Kramat Jati,Kramat Jati,Jakarta Timur ,Bak Beton,9,Komplek Rs. Polri,10
+TPS RW 04 Kramat Jati,Jl. RS. Polri RT 011 RW 04,Kramat Jati,Kramat Jati,Jakarta Timur ,Bak Beton,3,RS. Polri,5
+TPS RW 06 Kramat Jati,Jl. Al-Amin RT 04 RW 06,Kramat Jati,Kramat Jati,Jakarta Timur ,Pool Container,32,Pemerintah,20
+TPS RW 09 Kramat Jati,Jl.H.Sabeni RT 06 RW 09,Kramat Jati,Kramat Jati,Jakarta Timur ,Bak Beton,18,Jasa Marga,10
+TPS RW 011 Kramat Jati,Jl. Datok Tonggara RT 010 RW 011,Kramat Jati,Kramat Jati,Jakarta Timur ,Pool Gerobak,100,Kementrian PU,20
+Tps Rw 04 Kel. Dukuh,Jl Pijar Rt 012 Rw 004,Dukuh,Kramat Jati,Jakarta Timur ,Pool Gerobak,20,milik Jasamarga,10
+Tps Rw 06 Kel. Dukuh,Komplek BHP,Dukuh,Kramat Jati,Jakarta Timur ,Pool Gerobak,12,Milik Pemda,10
+Tps Rw 03 Kel. Dukuh,Jl Albashor Rt. 014 Rw. 003,Dukuh,Kramat Jati,Jakarta Timur ,Pool Gerobak,30,Milik salah satu warga,12
+Tps Rw 01 Kel. Dukuh,Jln SMP Trisoko Rt. 005 Rw. 001,Dukuh,Kramat Jati,Jakarta Timur ,Pool Gerobak,12,Milik Jasamarga,3
+TPS RW 011 Cawang,Jl. Cawang 3 RT 06 RW 011,Cawang,Kramat Jati,Jakarta Timur ,Bak Beton,18,Warga,20
+TPS RW 06 Cawang ,"Jl. MT Haryono, RW 06 Kel. Cawang (samping RS. Otak Nasional)",Cawang,Kramat Jati,Jakarta Timur ,Pool Gerobak,50,Pemerintah,20
+TPS RW 08 cawang,Jl. Tanjung Sanyang RW 08 ,Cawang,Kramat Jati,Jakarta Timur ,Bak Beton,24,Pemerintah,20
+RW 03 Cililitan,Jl. Raya Cililitan,Cililitan,Kramat Jati,Jakarta Timur ,TPS,80,Jasamarga,10
+Dipo PLN Cililitan,Jl. Raya Sutoyo,Cililitan,Kramat Jati,Jakarta Timur ,Dipo,150,Pertamanan,45
+TPS RW 07,Komplek Zeni rt 02 rw07,Tengah,Kramat jati,Jakarta Timur ,Bak Beton,21,Pemerintah ,20
+TPS Kel. Balekambang,Jl. Pucung RT 09 RW 02 (dekat kantor lurah Balekambang),Balekambang,Kramat Jati,Jakarta Timur ,Pool Gerobak,24,Pemerintah,15
+RW 07 Cililitan,"Jl. Cililitan Kecil, RW 07",Cililitan,Kramat Jati,Jakarta Timur ,Pool Gerobak,12,Pemerintah,10
+TPS RW 012 Kel. Cililitan,Komplek Rumah Dinas Kodam Jaya Cililitan RW 012 Cililitan,Cililitan,Kramat Jati,Jakarta Timur ,Bak Beton,15,Milik komplek Rumah Dinas Kodam Jaya Cililitan ,5
+RW 011 Cililitan,Jl. Mayjen Sutoyo,Cililitan,Kramat Jati,Jakarta Timur ,Pool Container,8,Kompldk Puskesad,2
+RW 01 Cililitan,Jl. Cililitan,Cililitan,Kramat Jati,Jakarta Timur ,Bak Beton,6,Jasamarga,3
+Tps Rw 03,Jl. Al-Muqorobin,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Container,15,Jasa Marga,15
+Tps Rw 04,Jl. Pangeran,Cipinang Melayu,Makasar,Jakarta Timur ,Bak Beton,8,Jasa Marga,8
+Rw 06,Jl. Seulawah Raya ,Cipinang Melayu,Makasar,Jakarta Timur ,TPS,80,Milik PT,11
+Tps Rw 09,Jl. Pangkalan Jati VII,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Container,45,Waqaf,8
+Rw 11,Jl. Inpeksi Tarum Barat,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Gerobak,20,Jasa Marga,11
+Rw 13,Jl. Pangkalan Jati II ,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Gerobak,20,PT. Naga Swalayan,11
+Tps Rw 02,Jl. Inpeksi Tarum Barat,Cipinang Melayu,Makasar,Jakarta Timur ,TPS,15,Jasa Marga,11
+Tps Rw 03,Jl Al Muqorobin,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Container,20,Jasa Marga,12
+Tps rw 04 Borobudur,Jl pangeran,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Container,8,Jasa Marga,6
+Tps Rw 12,Jl Harapan Indah,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Gerobak,15,Milik Pribadi,7
+Tps Rw 09,Jl Pangkalan jati VII,Cipinang melayu,Makasar,Jakarta Timur ,Pool Container,45,Waqaf,10
+Tps Rw 02 Landasan,Jl. Mesjid Al Munir,Makasar,Makasar,Jakarta Timur ,Pool Gerobak,80,TNI AU,26
+Tps Rw 02 Pasar Embrio,Gg. Nangka,Makasar,Makasar,Jakarta Timur ,TPS,15,Lokbin Pasar Embrio,14
+Tps Rw 04,Jl Kerja bakti,Makasar,Makasar,Jakarta Timur ,Pool Container,30,Jasa Marga,5
+Tps Rw 01,Jl. Pinang Ranti Barat,Pinang Ranti,Makasar,Jakarta Timur ,Pool Container,15,Jasa Marga,13
+Tps Rw 02 RTM,Jl. Asem Nirbaya,Pinang Ranti,Makasar,Jakarta Timur ,Dipo,800,Taman Mini,20
+Rw 04,Gg. H. Yakubi,Pinang Ranti,Makasar,Jakarta Timur ,Pool Container,30,Milik Pribadi,7
+Tps Rw 05,Jl. Al falah,Pinang Ranti,Makasar,Jakarta Timur ,Pool Container,30,TNI AU,7
+Tps Rw 03 ,Jl. Bima,Halim Perdana Kusumah,Makasar,Jakarta Timur ,TPS,15,TNI AU,8
+Rw 04,Jl. Raya Mustang,Halim Perdana Kusumah,Makasar,Jakarta Timur ,Pool Container,50,TNI AU,12
+Tps Rw 05 / 06 Taman Intirub,Jl. Cililitan Besar,Halim Perdana Kusumah,Makasar,Jakarta Timur ,Pool Gerobak,15,Pemda DKI,15
+TPST RW 14,Jl. Kayatun,Halim perdana kusumah,Makasar,Jakarta Timur ,TPS,2000,TNI AU,10
+Tps Rw 01.10,Jl. Cakrawala,Kebon Pala,Makasar,Jakarta Timur ,Pool Gerobak,200,Pemadam Kebakaran,5
+Rw 03 Pinggir Kali,Gg. Siluman,Kebon pala,Makasar,Jakarta Timur ,Bak Beton,20,Jasa Marga,8
+Rw 03 SDI,Jl. Udayana,Kebon Pala,Makasar,Jakarta Timur ,Bak Beton,25,Jasa Marga,7
+Rw 03 Jembatan,Jl. Udayana,Kebon Pala,Makasar,Jakarta Timur ,Bak Beton,15,Jasa Marga,7
+Tps Rw 04,Jl. SD Inpres ,Kebon Pala,Makasar,Jakarta Timur ,TPS,20,Milik pribadi,16
+Rw 06 PPSU,Jl. Kolonel Sutomo,Kebon Pala,Makasar,Jakarta Timur ,Bak Beton,10,Pemda DKI,8
+Rw 07,Jl. Mayjen Soetoyo,Kebon Pala,Makasar,Jakarta Timur ,TPS,18,Jasa Marga,15
+Rw 08,Jl. Halim Perdana kusumah,Kebon Pala,Makasar,Jakarta Timur ,Pool Container,30,Pemda DKI,7
+Tps Rw 12,Jl. Permata,Kebon pala,Makasar,Jakarta Timur ,Pool Gerobak,15,Milik Pribadi,10
+Tps Rw 01,Jl Taruna,Cipinang Melayu,Makasar,Jakarta Timur ,TPS,8,Jasa Marga,8
+Tps rw 13 Naga,Jl pangkalan jati II,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Gerobak,20,PT. Naga,20
+Tps Rw 11,Jl. Inpeksi Tarum Barat,Cipinang Melayu,Makasar,Jakarta Timur ,Pool Gerobak,20,Jasa Marga,16
+Tps Rw 04 Akpindo,Jl inpeksi tarum barat,Cipinang melayu,Makasar,Jakarta Timur ,Bak Beton,20,Jasa Marga,6
+Rw 06 kodam,Jl seulawah raya,Cipinang melayu,Makasar,Jakarta Timur ,TPS,200,Swasta,17
+TPST Rw 01.10 kamboja,Jl kamboja,Kebon pala,Makasar,Jakarta Timur ,TPS,59,Pemda DKI,6
+Tps Rw 01,Jl. Wisanggeni,Halim Perdana Kusumah,Makasar,Jakarta Timur ,Bak Beton,12,TNI AU,8
+Tps Rw 02,Jl. Stiobomo,Halim Perdana kusumah,Makasar,Jakarta Timur ,Pool Container,20,TNI AU,6
+Tps Rw 03 Kukila,Jl. Kukila Raya,Halim Perdana Kusumah,Makasar,Jakarta Timur ,Pool Container,12,TNI AU,8
+Tps Rw 10 Trikora,Jl. Trikora,Halim Perdana Kusumah,Makasar,Jakarta Timur ,Bak Beton,15,TNI AU,9
+Tps Rw 11 Rajawali,Jl. Rajawali Baru,Halim Perdana Kusumah,Makasar,Jakarta Timur ,Bak Beton,15,TNI AU,7
+Tps Rw 13,Jl Raya Halim Pk,Halim Perdana Kusumah,Makasar,Jakarta Timur ,Pool Container,12,TNI AU,7
+Tps Rw 05,Jl Usman Harun,Kebon Pala,Makasar,Jakarta Timur ,Bak Beton,15,Jasa Marga,8
+Dipo Pisangan Baru,Jl.  Pisangan baru Tengah,Pisangan baru,Matraman,Jakarta Timur ,Dipo,250,Pemerintah,60
+TPS Rw.  10 kel. Palmeriam,Jalan Siaga Raya,Palmeriam,Matraman,Jakarta Timur ,TPS,80,Punya Warga,20
+Bak beton Rt 23/03 berlan ,Jln berlan rt 23/03 ,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Bak beton berlan rt 23/03,Jln kesatrian 5 berlan ,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Bak beton rt 26/03 berland,Jln kesatrian 5,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,9,Pemprov,0.5
+Bak beton rt 23/03 berlan ,Jln kesatrian IX berlan,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Bak beton rt 28/03 berland,Jln kesatrian IV,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,8,Pemerintah,0.5
+Bak beton rt 28/03 berland,Jln komp.tni ad no77,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Bak beton rt 22/03 berland,Jln kesatrian V,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,5,Pemerintah,0.5
+Bak beton rt 15/03 berlan,Jln kesatrian V D Berlan ,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemertintah,0.5
+Bak beton rt 19/20 rw 03,Jln kestrian V D ,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,12,Pemerintah,0.5
+Bak beton rt 25/03 berland,Jln kesatrian 8 rt 25/03 berland,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,10,Pemerintah,0.5
+Bak beton rt 18/03 berlan,Jln kesatrian VIII berlan ,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,10,Pemerintah,0.5
+Bak beton rt 21 berland,Jln kesatrian VIII,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Bak beton rt 27/03 Berlan,Jln kesatrian IX berlan ,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Bak beton rt 27 berland,Jln kesatrian 9 rt 27/03 berland,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,10,Pemerintah,0.5
+Dipo utan kayu selatan,Jl. Galur Sari Rt 12 Rw 01,Utan Kayu Selatan,Matraman,Jakarta Timur ,Dipo,500,Pemerintah,80
+RW 04/05 Asem Gede,Jl. Asem gede I,Utan Kayu Selatan,Matraman,Jakarta Timur ,TPS,35,Punya Warga,10
+Transit/pool gerobak slamet riyadi,Jln slamet riyadi IV,Kebon manggis,Matraman,Jakarta Timur ,Pool Gerobak,100,Jalan umum,10
+Bak beton Rt 12/03 berland,Jln kesatrian 10 ,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,3,Pemerintah,0.5
+Bak beton rt 11/03 berland,Jln kesatrian 10,Kebon manggis,Matraman,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Transit/pool gerobak padel rw 01,Jln matraman 1,Kebon manggis,Matraman,Jakarta Timur ,Pool Gerobak,50,Pemerintah,0.5
+Tps RW 002 Pisangan Baru,Jl. Pisangan baru tengah 1,Pisangan baru,Matraman,Jakarta Timur ,TPS,5,Pemerintah,5
+Dipo kayu manis,Jln kayu manis 4 baru,Kayu manis,Matraman,Jakarta Timur ,Dipo,500,Pemprov DKI,15
+Bak beton rt 21/03 berlan ,Komp. Tni AD no 21 ,Kebon manggis,Matraman ,Jakarta Timur ,Bak Beton,6,Pemerintah,0.5
+Bak beton rt 18/03 berlan ,Jln kesatrian VIII,Kebon manggis,Matraman ,Jakarta Timur ,Bak Beton,16,Pemerintah,0.5
+Bak beton rt17/03 berlan,Jln kesatrian IX Berlan,Kebon manggis,Matraman ,Jakarta Timur ,Bak Beton,28,Pemerintah,0.5
+Bak beton rt 11/03 berlan,Jln kesatrian X berlan,Kebon manggis,Matraman ,Jakarta Timur ,Bak Beton,16,Pemerintah,0.5
+Bak beton rt 14/10 rw 03 berlan,Jln kesatrian X berlan,Kebon manggis,Matraman ,Jakarta Timur ,Bak Beton,12,Pemerintah,0.5
+Jl. Lebak Sari di bawah SMPN 103 Cijantung,Jl. RA Fadillah ,Cijantung,Pasar Rebo,Jakarta Timur ,Bak Beton,12,milik kodam,0.5
+rw 09,jalan lingkar sari,kalisari,pasar rebo,Jakarta Timur ,Pool Gerobak,50,tanah pribadi,4
+kalisari raya samping alfa,jl kalisari raya,kalisari,pasar rebo,Jakarta Timur ,Pool Gerobak,30,jalan umum,20
+jalan kalisari 3 sawit,jalan kalisari 3 sawit,kalisari ,pasar rebo,Jakarta Timur ,Pool Gerobak,30,jalan umum,10
+DIPO TIPAR,JL. TIPAR RW 07,PEKAYON,PASAR REBO,Jakarta Timur ,Dipo,500,TANAH KODAM,10
+JALAN KOPI RW 03,JL. KOPI RW 03,PEKAYON,PASAR REBO,Jakarta Timur ,Pool Gerobak,100,JALAN UMUM,3
+JL. LAPAN RW 01,JL. LAPAN RW 01,PEKAYON,PASAR REBO,Jakarta Timur ,Pool Gerobak,100,SARANA UMUM,8
+JL. RAYA BOGOR RW 01 (CIBA),JL. RAYA BOGOR RW 01 ,PEKAYON,PASAR REBO,Jakarta Timur ,Pool Gerobak,300,SARANA UMUM / JALUR HIJAU,20
+JL. BUAH RW 04,JL. BUAH RW 04 ,PEKAYON,PASAR REBO,Jakarta Timur ,Pool Container,100,SARANA UMUM / PINGGIR JALAN,8
+KOMPLEK LAPAN,KOMPLEK LAPAN ,PEKAYON,PASAR REBO,Jakarta Timur ,Pool Container,100,LAHAN MILIK KOMPLEK LAPAN,8
+JL. GANDARIA RW 02,JL. GANDARIA RW 02,PEKAYON,PASAR REBO,Jakarta Timur ,Pool Gerobak,100,SARANA UMUM / PINGGIR JALAN,10
+"JL. GANDARIA I,II,III",JL. GANDARIA III,PEKAYON,PASAR REBO,Jakarta Timur ,Pool Gerobak,1003,SARANA UMUM / PINGGIR JALAN,10
+KOMPLEK ZENI,KOMPLEK ZENI RW 08,PEKAYON,PASAR REBO,Jakarta Timur ,Bak Beton,20,LAHAN KOMPLEK ZENI,10
+KANTOR POLSEK PASAR REBO,KANTOR POLSEK PASAR REBO JL. RAYA BOGOR,PEKAYON,PASAR REBO,Jakarta Timur ,Bak Beton,50,LAHAN POLSEK,10
+Komplek Bengrah,Jl. Pule,Cijantung,Pasar Rebo,Jakarta Timur ,Bak Beton,50,milik KODAM,1
+Jl sederhana,Jl sederhana rw 06,Gedong,Pasar rebo,Jakarta Timur ,Pool Container,30,Kodam,1
+Kompl. Denzibank Selayar,Jl. Selayar,Cijantung,Pasar Rebo,Jakarta Timur ,Pool Container,50,milik KODAM,0.5
+Komplek Denzipur,Jl. RA Fadillah,Cijantung,Pasar Rebo,Jakarta Timur ,Pool Container,50,milik KODAM,0.5
+Komplek Denzibank,Jl. RA Fadillah,Cijantung,Pasar Rebo,Jakarta Timur ,Bak Beton,6,milik KODAM,0.5
+Pendidikan,Jl. Pendidikan,Cijantung,Pasar Rebo,Jakarta Timur ,Dipo,100,milik KODAM,40
+Asrama polri,Rw.07 jl tb simatupang,Gedong,Pasar rebo,Jakarta Timur ,Pool Container,20,Polri,0.5
+Trikora,Jl trikora rw 09,Gedong,Pasar rebo,Jakarta Timur ,Pool Gerobak,100,Sarana umum/jalur hijau,18
+Samping pom bensin,Jl tb simatupang rt 07 rw 011,Gedong,Pasar rebo,Jakarta Timur ,Pool Container,30,Milik warga,0.5
+Dipo Moong,Jl. H. Moong Rw. 02,Baru,Pasar Rebo,Jakarta Timur ,Dipo,230,Swadaya masyarakat,9
+TPST KOPASSUS,JL. RA. FADILLAH,BARU,PASAR REBO,Jakarta Timur ,TPS 3R,500,KODAM,4
+Rw 01,Jl raya condet rw 01,Gedong,Pasar rebo,Jakarta Timur ,Pool Gerobak,100,Dinas pendidikan,10
+Rt 01.02,Rt 01.02 rw 011 belakang koramil gedong,Gedong,Pasar rebo,Jakarta Timur ,Pool Container,30,Kodam,1
+jl puskesmas kartini,jalan puskesmas,kalisari,pasar rebo,Jakarta Timur ,Pool Gerobak,30,jalan umum,8
+KOMP. YONKAV 7 BAWAH,JL. SARACEEN,BARU,PASAR REBO,Jakarta Timur ,Pool Container,75,KODAM,0.5
+KOMP. YONKAV 7 ATAS BARAK,JL. VAB,BARU,PASAR REBO,Jakarta Timur ,Pool Container,100,KODAM,0.5
+gor kalisari,jl kalisari 3 gor,kalisari,pasar rebo,Jakarta Timur ,Bak Beton,6,tanah gor ,6
+KOMP. YONKAV 7 ATAS TORN,JL. BISON,BARU,PASAR REBO,Jakarta Timur ,Pool Container,100,KODAM,0.5
+kalisari 2 ,jl kalisari 2,kalisari,pasar rebo,Jakarta Timur ,Pool Gerobak,30,jalan umum,20
+Pendidikan,Jl. Pendidikan,Cijantung,Pasar Rebo,Jakarta Timur ,Dipo,100,milik KODAM,40
+Rindam jaya,Rindam jaya jl raya condet,Gedong,Pasar rebo,Jakarta Timur ,Pool Container,100,Kodam,8
+Komplek Telsa Lapan,Jl. Pendidikan Rw 09,Pekayon,Pasar Rebo,Jakarta Timur ,Pool Container,50,Lahan komplek Telsa,1
+Beringin,Jl beringin rw 04 cijantung II,Gedong,Pasar rebo ,Jakarta Timur ,Dipo,300,Kodam,10
+Rw. 001 pulogadung,Jl.sisi kali sunter,Pulogadung,Pulogadung,Jakarta Timur ,Bak Beton,20,Fasilitas umum,8
+Rw. 009 Kayu Mas Utara,Jl. Kayu Mas Utara,Pulogadung,Pulogadung,Jakarta Timur ,Pool Gerobak,25,Fasilitas Umum,20
+Rw. 002,Jl. Jendral A.Yani - Pemuda,Rawamangun,Pulogadung,Jakarta Timur ,Pool Gerobak,100,Fasilitas umum,40
+Pisangan timur,Jl. Pisangan Lama Timur,Pisangan Timur,Pulogadung,Jakarta Timur ,Pool Gerobak,150,Fasilitas umum,60
+RW 004 Kel. Jatinegara Kaum,Gg. Remaja,Jatinegara Kaum,Pulogadung,Jakarta Timur ,Bak Beton,20,Fasilitas Umum,4
+Dipo indoor,Jl. Pulomas Utara No.01,Kayu putih,Pulogadung,Jakarta Timur ,Pool Gerobak,150,Milik PT.Pulomas,27
+RW 001 Kel. Jatinegara Kaum,Jl.  I Gusti Ngurah Rai,Jatinegara Kaum,Pulogadung,Jakarta Timur ,Pool Gerobak,30,Fasilitas umum,22
+"Rw.003,004 Jati",Jl. Bendungan,Jati,Pulogadung,Jakarta Timur ,Pool Gerobak,35,Fasilitas umum,20
+Rw.005 pos giro,Jl. Poncol atas,Jati,Pulogadung,Jakarta Timur ,Pool Gerobak,50,Fasilitas umum,20
+Rw. 016 Pled,Jl. Pulo Nangka Barat III,Kayu putih,Pulogadung,Jakarta Timur ,Pool Gerobak,30,Milik PT.Pulomas,20
+"Rw. 013,014 pisangan timur",Jl.  Wisma jaya,Pisangan timur,Pulogadung,Jakarta Timur ,Pool Gerobak,20,Fasilitas umum,8
+"Rw. 010,011 Rawamangun",Jl. Wisma jaya,Rawamangun,Pulogadung,Jakarta Timur ,Pool Gerobak,30,Fasilitas umum,12
+"Rw. 008,009 Rawamangun",Jl. Pegambiran,Rawamangun,Pulogadung,Jakarta Timur ,Pool Gerobak,30,Fasilitas umum,10
+Rw. 006 musik cipinang,Jl. Cipinang baru raya,Cipinang,Pulogadung,Jakarta Timur ,Bak Beton,15,Fasilitas umum,4
+Rw. 005 brimob cipinang,Jl. Cipinang baru raya,Cipinang,Pulogadung,Jakarta Timur ,Bak Beton,15,Fasilitas umum,4
+Rw. 003 kayu putih,Jl. Angkur,Kayu putih,Pulogadung,Jakarta Timur ,Pool Gerobak,20,Fasilitas umum,8
+Rw.001 pulogadung,Jl. Jati anom,Pulogadung,Pulogadung,Jakarta Timur ,Pool Gerobak,20,Fasilitas umum,4
+Rw. 010 pulogadung,Jl. Kayu mas utara,Pulogadung,Pulogadung,Jakarta Timur ,Bak Beton,20,Fasilitas umum,4
+Rw.007 pulogadung,Jl. Kayu putih tengah,Pulogadung,Pulogadung,Jakarta Timur ,Pool Container,25,Fasilitas umum,12
+Rw. 008 pulogadung,Jl. Kayu putih utara,Pulogadung,Pulogadung,Jakarta Timur ,Pool Gerobak,25,Fasilitas umum,13
+Rw. 016 jagal cipinang,Jl. Bekasi timur raya,Cipinang,Pulogadung,Jakarta Timur ,Bak Beton,15,Fasilitas umum,5
+Rw. 016 jagal cipinang,Jl. Bekasi timur raya,Cipinang,Pulogadung,Jakarta Timur ,Bak Beton,15,Fasilitas umum,5
+Rw. 001 rusun jatinegara kaum,Jl. Bekasi timur raya,Jatinegara kaum,Pulogadung,Jakarta Timur ,Bak Beton,15,Rusun jatinegara kaum,3
+Rw. 003 taruna pulogadung,Jl. Taruna,Pulogadung,Pulogadung,Jakarta Timur ,Bak Beton,20,Fasilitas umum,12
+Rw. 003 palad jati,Jl. Palad,Jati,Pulogadung,Jakarta Timur ,Bak Beton,20,Fasilitas umum,12
+"Rw 012,013 ",Jl. Rawamangun muka,Rawamangun ,Pulogadung ,Jakarta Timur ,Pool Container,30,Panggir jalan raya (fasum),13
+Tu Gas,Jl.  Pemuda,Jatinegara Kaum ,Pulogadung ,Jakarta Timur ,Pool Gerobak,20,Fasilitas umum (fasum) ,15
+Bombay,Jln. Pulomas selatan,Kayu putih ,Pulogadung ,Jakarta Timur ,Pool Gerobak,10,Fasilitas umum,20
+Kandang burung,Jl.  Pulomas barat,Kayu putih ,Pulogadung ,Jakarta Timur ,Pool Gerobak,30,PT.Pulomas,20
+Rw.  016 cipinang,Jl.  Cipinang jagal,Cipinang,Pulogadung ,Jakarta Timur ,Pool Gerobak,30,Fasilitas umum ,20
+"Rw. 013,014 Pisangan Timur ",Jl.  Wisma jaya,Pisangan Timur ,Pulogadung ,Jakarta Timur ,Pool Gerobak,20,Fasilitas umum ,8
+TPS RT 13 RW 09 Cilincing,Jl. Komplek Pelindo RT13 RW 09,Cilincing,Cilincing,Jakarta Utara,Bak Beton,15,Pelindo,5
+TPS Pasar Lokbin,Jl. Malaka 1,Rorotan,Cilincing,Jakarta Utara,Bak Beton,18,UMKM,4
+TPS Bak Beton RW 10,Jl. Rorotan X,Rorotan ,Cilincing,Jakarta Utara,Bak Beton,18,Pengembangan Green Garden,12
+Bak Beton Rusun Marunda Cluster B ,JL. Rusun Marunda Cluster B ,Marunda,Cilincing ,Jakarta Utara,Bak Beton,60,Dinas Perumahan ,7
+Bak Beton Rusun Marunda Cluster A ,JL. Rusun Marunda Cluster A ,Marunda ,Cilincing ,Jakarta Utara,Bak Beton,40,Dinas Perumahan ,7
+Bak Beton RW. 01 Semper Barat ,JL. Belibis IV,Semper Barat ,Cilincing ,Jakarta Utara,Bak Beton,4,Bina Marga ,3
+TPS RW. 01 Sukapura ,JL. Tipar Cakung Gg. Kompi Jenggot RW. 01 ,Sukapura ,Cilincing ,Jakarta Utara,Bak Beton,66,Pribadi ,8
+RW. 05 Sukapura ,TPU Kramat Mengkok ,Sukapura ,Cilincing ,Jakarta Utara,Bak Beton,25,"Warga, Gerobak Sampah ",5
+TPS RW 004,Jl. Inspeksi Kali Sunter RW 004,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Bak Beton,10,Dinas Tata Air,8
+Jalan Deli,Jalan Deli,Koja selatan,Koja,Jakarta Utara,Bak Beton,3,Bina Marga,3
+RW.002 Rawa Badak Selatan,Jalan Koramil RW.002,Rawa Badak Selatan,Koja,Jakarta Utara,Bak Beton,70,PT El Nusa,8
+Jalan Sunter II ,Jalan Sunter II RW.12,Rawa Badak Utara,Koja,Jakarta Utara,Bak Beton,12,Jalur Hijau / Pemda DKI,2
+Jalan Sunter II,Jalan Sunter II RW.013,Rawa Badak Utara,Koja,Jakarta Utara,Bak Beton,12,Jalur Hijau / Pemda DKI,3
+Jalan Yos Sudarso,Jalan Yos Sudarso,Rawa Badak Utara,Koja,Jakarta Utara,Bak Beton,6,Jalur Hijau / Pemda DKI,2
+Berdikari,Jalan Berdikari RW.014,Rawa Badak Utara,Koja,Jakarta Utara,Bak Beton,10,Jalur Hijau / Pemda DKI,3
+Lintas Jl. Ancol Barat Rt. 01/ 01 Kel. Ancol,Jakarta  Inner Ring Road Kel Ancol,Ancol,Pademangan,Jakarta Utara,Bak Beton,15,konfirmasi,1.11
+Bak Kembar Kel. Ancol,Jl. Lodan Raya No 6-7 Kel. Ancol,Ancol,Pademangan,Jakarta Utara,Bak Beton,15,konfirmasi,5.54
+Rw. 04 Kel. Ancol,Jl. Transmigrasi No. 30 Kel. Ancol,Ancol,Pademangan,Jakarta Utara,Bak Beton,14,konfirmasi,12.16
+Bak-Bak Rw. 01 Kel. Ancol,Jl. Lodan Raya No 8 Kel. Ancol,Ancol,Pademangan,Jakarta Utara,Bak Beton,2,konfirmasi,5.71
+Rw. 03  Kel. Ancol,Jl. Parang Teritis  Kel. Ancol,Ancol,Pademangan,Jakarta Utara,Bak Beton,3,konfirmasi,3.36
+Rw. 08 Kel. Ancol,Jl. Ancol IV No 28-29 Kel. Ancol,Ancol,Pademangan,Jakarta Utara,Bak Beton,40,konfirmasi,10.52
+Pasar Inpres Rw. 10 ,Jl. Pademangan 5 No. 46 Rw. 10 ,Pademangan Barat,Pademangan,Jakarta Utara,Bak Beton,70,PD. Pasar Jaya,6
+ Samsat Kel. Pademangan Barat,Jl. Gunung Sahari Raya No. 18 A Rw. 06,Pademangan Barat,Pademangan,Jakarta Utara,Bak Beton,30,Samsat ,3.34
+Ruko Inkopal Kel. Pademangan Barat,Jl. Gunung Sahari Raya No. 3 Rw. 13/ Inkopal ,Pademangan Barat,Pademangan,Jakarta Utara,Bak Beton,21,TNI,4.46
+Pasar Nalo Rw. 12 Kel. Pad Barat,Jl. Laksana RE Martadinata No. 4 Rw. 12 ,Pademangan Barat,Pademangan,Jakarta Utara,Bak Beton,18,Konfirmasi,4.93
+Pasar Elang Rw. 02 Kel. Pad Timur,Jl. Pademangan gg XXV Rw. 02 Kel. Pademangan Timur,Pademangan Timur,Pademangan,Jakarta Utara,Bak Beton,12,PD Pasar Jaya,11.26
+Jl. Hidup Baru Rw. 14 Kel. Pad Barat,Jl. Hidup Baru Rw. 14 Kel. Pademangan Barat,Pademangan Barat,Pademangan ,Jakarta Utara,Bak Beton,12,konfirmasi,1.09
+TPS Solo bone,JL. RE. Martadinata,Papanggo,Tanjung Priok,Jakarta Utara,Bak Beton,7,PJKA,6
+TPS Bulu Ayam,JL. RE. Martadinata,Sunter Agung,Tanjung Priok,Jakarta Utara,Bak Beton,9,PJKA,2
+Bak beton RW 03,JL. Sunter kemayoran,Sunter Jaya,Tanjung Priok,Jakarta Utara,Bak Beton,6,DPU,1
+Bak beton RW 07 sunter jaya,JL. Sunter mas barat RW 07,Sunter jaya,Tanjung priok,Jakarta Utara,Bak Beton,20,Swadaya,9495
+Bak beton Honda RW 09,JL. Sunter Kemayoran,Sunter Jya,Tanjung Priok,Jakarta Utara,Bak Beton,15,DPU,12
+TPS A9 Bahari RW 13,JL. Bahari III Gg A9 RW 13,Tanjung Priok,Tanjung Priok,Jakarta Utara,Bak Beton,24,PJKA,8
+Dipo RW.15 Semper Barat ,JL. Raya Cilincing RW. 15 ,Semper Barat ,Cilincing ,Jakarta Utara,Dipo,100,Dinas Pertamanan ,48
+Dipo RW. 03 Semper Barat ,JL. Rusun Kebersihan No. 24,Semper Barat ,Cilincing ,Jakarta Utara,TPS 3R,50,PEMDA DKI ,16
+Dipo RW. O5 Semper Timur ,Jl. Kebantenan II RT. 010 RW. 05,Semper Timur,Cilincing ,Jakarta Utara,Dipo,400,Pemerintah Daerah ,10
+Rw 07 sukapura ,Rw 07 jl sakura barat 3,Sukapura ,Cilincing ,Jakarta Utara,Dipo,150,Warga rw 07,200
+Dipo RW. 07 Sukapura ,JL. Sakura Barat 3 ,Sukapura ,Cilincing ,Jakarta Utara,Dipo,300,Pribadi ,32
+Dipo Kelapa Gading,Jl. Inspeksi Kali Sunter RW 005,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Dipo,1400,Dinas Pertamanan,70
+Dipo Rawa Badak,Jalan Inspeksi Kali Sunter RW.009 ,Rawa Badak Utara,Koja,Jakarta Utara,Dipo,300,Jalur Hijau / Pemda DKI,214
+Dipo Kel. Ancol,Jl. Ancol Barat VIII Kel. Ancol,Ancol,Pademangan,Jakarta Utara,Dipo,306,TIJA,10
+Dipo Kel. Pademangan Barat,Jl. Budi Mulya Raya No 114,Pademangan Barat,Pademangan,Jakarta Utara,Dipo,200,Konfirmasi,60
+Jl. Pad IX Rt. 02/010 Kel. Pad Timur,Jl. Pademangan IX Rt. 02/010 Kel. Pademangan Timur,Pademangan Timur,Pademangan,Jakarta Utara,Dipo,140,konfirmasi,60
+Dipo muara baru,Jln.muara baru,Penjaringan,Penjaringan,Jakarta Utara,Dipo,270,Pemda dki,274
+Dipo RW 13 Sunter Agung,JL. Sunter Karya RW 13,Sunter Agung,Tanjung Priok,Jakarta Utara,Dipo,200,Pemda,13995
+Dipo Sunter Jaya,JL. Sunter jaya I,Sunter jaya,Tanjung Priok,Jakarta Utara,Dipo,10,Tata Air,300
+Pool Gerobak RW 03 Green Garden,Jl. Malaka Jaya,Rorotan,Cilincing,Jakarta Utara,Pool Gerobak,150,Pengembangan Green Garden,40
+TPS Jembatan Budidarma ,JL. TPU Semper RT.04 RW. 10,Semper Timur ,Cilincing ,Jakarta Utara,Pool Gerobak,2,Pemerintah Daerah ,4
+Pager Seng Prapatan ,JL. Madya Kebantenan RT.01 RW. 03,Semper Timur ,Cilincing ,Jakarta Utara,Pool Gerobak,9,Pemerintah Daerah ,4
+RW. 10 Cakung Drain ,jl. inspeksi cakung drain RT. 06 RW. 10 ,Semper Timur ,Cilincing ,Jakarta Utara,Pool Gerobak,49,Pemerintah Daerah ,4
+RW. 011 Cakung Drain ,Jl. Swadaya I RT. 01 RW. 11,Semper Timur ,Cilincing ,Jakarta Utara,Pool Gerobak,100,Pemerintah Daerah ,6
+RW. 04 Semper Timur ,jl. akses marunda rt 08 rw 04 ,Semper Timur ,Cilincing ,Jakarta Utara,Pool Gerobak,4,Pemerintah Daerah ,3
+RW. 02 Semper Timur ,jl. cakung cilincing rt 03 rw 02,semper timur ,Cilincing ,Jakarta Utara,Pool Gerobak,2,Pemerintah Daerah ,2
+TPS RW. 02 Sukapura ,JL. Tipar Cakung Gg. Taruna RW. 02 ,Sukapura ,Cilincing ,Jakarta Utara,Pool Gerobak,32,Summarecon ,10
+"RW, 03 Sukapura ",JL. Tipar Cakung TPU Buni ,Sukapura ,Cilincing ,Jakarta Utara,Pool Gerobak,48,Tanah Pemakaman ,8
+RW 007 Kelapa Gading Barat,Jl. Raya Bukit Gading Villa,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Pool Gerobak,50,PT SUMARECON,18
+TPS RW 006,Jl. Janur Elok II,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Pool Gerobak,60,PT Sumarecon,16
+TPS Gading Pandawa RW 01,Jl. Pelepah Raya,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Pool Gerobak,18,masih dalam konfirmasi,4
+TPS RW 002,Jl. Gading Putih Raya,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,20,masih dalam konfirmasi,8
+TPS RW 05,Jl. Perintis Kemerdekaan,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,50,Masih dalam konfirmasi,16
+TPS RW 007,Jl. Tarian Raya,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,20,masih dalam konfirmasi,8
+TPS RW 008,Jl. Tarian Raya,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,15,masih dalam konfirmasi,4
+TPS RW 010,Jl. Jingga Raya,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,15,masih dalam konfirmasi,5
+TPS RW 011,Jl. Gading Elok Utara,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,15,masih dalam konfirmasi,5
+TPS RW 012,Jl. Kopyor Raya,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,15,masih dalm konfirmasi,4
+TPS RW 015,Jl. Pelepah Raya,Kelapa Gading Timur,Kelapa gading,Jakarta Utara,Pool Gerobak,20,PT Sumarecon,4
+TPS rw 016,Jl. Kelapa Puan Raya,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,20,PT sumarecon,4
+TPS RW 017,Jl. Kelapa Gading Permai,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,15,masih dalam konfiormasi,5
+TPS RW 018,Jl. Raya Pelepah Indah,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,20,PT Sumarecon,4
+TPS RW 009,Jl. Kelapa Cengkir Raya,Kelapa Gading Timur,Kelapa Gading,Jakarta Utara,Pool Gerobak,20,masih dalam konfirmasi,4
+TPS Kompi Udin,Jl. Kepu,Pegangsaan Dua,Kelapa Gading,Jakarta Utara,Pool Gerobak,100,masih dalam konfirmasi,35
+TPS RW 002,Jl. Pegangsaan Dua,Pegangsaan Dua,Kelapa Gading,Jakarta Utara,Pool Gerobak,15,masih dalam konfirmasi,3
+TPS TPI,Jl. Pegangsaan Dua,Pegangsaan Dua,Kelapa Gading,Jakarta Utara,Pool Gerobak,40,PT Sumarecon,7
+TPS arcadia,Jl. Pegangsaan Dua,Pegangsaan Dua,Kelapa Gading,Jakarta Utara,Pool Gerobak,30,PT sumarecon,8
+Jalan Muncang,Jalan Muncang,Lagoa,Koja,Jakarta Utara,Pool Gerobak,20,Bina Marga,8
+Jalan B,Jalan Raya Cilincing / Jalan B,Lagoa,Koja,Jakarta Utara,Pool Gerobak,36,Bina Marga,20
+RW.001 Pasar Tradisional Bendungan Melayu,Jalan Bendungan Melayu RW.001,Rawa Badak Selatan,Koja,Jakarta Utara,Pool Gerobak,9,Jalur Hijau / Pemda DKI,8
+Rw. 02 Kel. Pademangan Barat,Jl. Hidup Baru No. 44-247 Kel. Pademangan Barat,Pademangan Barat,Pademangan,Jakarta Utara,Pool Gerobak,6,konfirmasi,6.96
+Rw. 07 Kel. Pademangan Barat,Jl. Budi Mulia Utara No. 74 Rw. 07 Kel. Pademangan Barat,Pademangan Barat,Pademangan,Jakarta Utara,Pool Gerobak,6,Konfirmasi,3.91
+Rw. 13 Terowongan Kel. Pad Barat,Jl. Budi Mulia Utara Rw 13 Kel. Pademangan Barat,Pademangan Barat,Pademangan,Jakarta Utara,Pool Gerobak,6,konfirmasi,0.63
+Rusun Kapuk Muara Kel. Kapuk Muara,Jl. SMP 122 RW.09,Kapuk Muara,Penjaringan,Jakarta Utara,Pool Gerobak,30,Pengembang Rusun,7
+RW.03 Kel. Kapuk Muara,Jl. Kapuk Kencana RW.03,Kapuk Muara,Penjaringan,Jakarta Utara,Pool Gerobak,20,Bahu jalan,7
+TPS Bugis,JL. Bugis raya,Kebon Bawang,Tanjung Priok,Jakarta Utara,Pool Gerobak,6,DPU,60
+TPS Waduk Cincin,JL. Danau Cincin utara,Papanggo,Tanjung Priok,Jakarta Utara,Pool Gerobak,1.5,Pemprov DKI,60
+TPS kencana,JL. Sungai bambu raya RW 08,Sungai Bambu,Tanjung Priok,Jakarta Utara,Pool Gerobak,25,CIMNP,50
+"TPS pool gerobak RW 01, 03, 06 dan 07",JL. Danau Sunter barat,Sunter Agung,Tanjung Priok,Jakarta Utara,Pool Gerobak,80,DPU,24
+Pool Gerobak RW 18,JL. Komplek STS RW 18,Sunter Agung,Tanjung Priok,Jakarta Utara,Pool Gerobak,80,Swadaya,9495
+Pool Container RW. 02 Yon Air,JL. Sena 1 RW. 02 Komplek Yon Air,Semper Barat ,Cilincing ,Jakarta Utara,Pool Container,20,TNI,8
+Pool Container Pasar Sukapura ,JL. Tipar Cakung Pasar Sukapura ,Sukapura ,Cilincing ,Jakarta Utara,Pool Container,36,Pemerintah Daerah ,11
+RW. 09 Sukapura ,Komplek Gading Griya ,Sukapura ,Cilincing ,Jakarta Utara,Pool Container,35,Gading Griya ,11
+RW. 12 sukapura ,Komplek gading griya ,sukapura ,cilincing ,Jakarta Utara,Pool Container,16,gading griya ,11
+TPS RW 003,Jl. Boulevard Bukit Gading Raya,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Pool Container,20,Kodamar,16
+TPS Lokbin Pedongkelan,Jl. Inspeksi Kali sunter,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Pool Container,12,Masih dalam konfirmasi,6
+TPS RW 008,Jl. Gading Kirana Timur,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Pool Container,25,PT Sumareon,16
+TPS RW 011,Jl. Pelepah Elok 1,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,Pool Container,20,PT SUMARECON,10
+TPS RW 015,Jl. Kelapa Hibrida Timur,Pegangsaan Dua,Kelapa Gading,Jakarta Utara,Pool Container,18,masih dalam konfirmasi,6
+Pasar Sindang,Jalan Sindang,Koja Selatan,Koja,Jakarta Utara,Pool Container,24,PD Pasar Jaya,6
+TPK Koja,Jalan Jampea,Koja Selatan,Koja,Jakarta Utara,Pool Container,12,TPK Koja,6
+RSUD Koja,Jalan Jampea,Koja Utara,Koja,Jakarta Utara,Pool Container,36,RSUD Koja,14
+Pasar Sinar,Jalan Dukuh,Lagoa,Koja,Jakarta Utara,Pool Container,60,PD Pasar Jaya,6
+Pasar Waru,Jalan Raya Cilincing,Lagoa,Koja,Jakarta Utara,Pool Container,16,Bina Marga,10
+Pasar Walang Baru,Jalan Alur Laut,Rawa Badak Selatan,Koja,Jakarta Utara,Pool Container,24,PD Pasar Jaya,6
+Pasar Rawa Badak,Jalan Sindang Terusan,Rawa Badak Utara,Koja,Jakarta Utara,Pool Container,36,PD Pasar Jaya,10
+Pasar Tugu,Jalan Kramat Jaya,Tugu Utara,Koja,Jakarta Utara,Pool Container,30,PD Pasar Jaya,6
+Pasar Lontar,Jalan Mangga,Tugu Utara,Koja,Jakarta Utara,Pool Container,15,PD Pasar Jaya,6
+Pasar Koja,Jalan Bhayangkara,Tugu Utara,Koja,Jakarta Utara,Pool Container,35,PD Pasar Jaya,10
+Ramayana Semper,Jalan Kramat Jaya,Tugu Utara,Koja,Jakarta Utara,Pool Container,24,Ramayana,3
+Islamic Centre,Jalan Kramat Jaya,Tugu Utara,Koja,Jakarta Utara,Pool Container,24,Islamic Centre,3
+Jalan Bhayangkara RW.001 ,Jalan Bhayangkara RW.001,Tugu Utara,Koja,Jakarta Utara,Pool Container,40,Warga,6
+Bahtera Jaya Rw. 10 Kel. Ancol,Jl. Ketel Kel. Ancol,Ancol,Pademangan,Jakarta Utara,Pool Container,20,Konfirmasi,7
+Rw. 01 Kel. Pademangan Barat,Jl. Pademangan 1 Rw. 01 Kel. Pademangan Barat,Pademangan Barat,Pademangan,Jakarta Utara,Pool Container,24,konfirmasi,6.43
+Rusun RW.06 Kel. Penjaringan,Jl. Tanjung Wangi RW.06 Kel. Penjaringan ,Penjaringan,Penjaringan,Jakarta Utara,Pool Container,25,Rusun,5
+Pool container GRJU,JL. Yos sudarso RT 06/13,Kebon bawang,Tanjung priok,Jakarta Utara,Pool Container,10,Pemprov DKI,9
+TPS Apartemen Metro kencana,JL. Metro Kencana RW 11,Papanggo,Tanjung Priok,Jakarta Utara,Pool Container,40,Pengembang,31.95
+Pool Container pasar pelita,Pasar pelita JL. Sungai bambu raya,Sungai Bambu,Tanjung Priok,Jakarta Utara,Pool Container,30,PD. Pasar Jaya,13995
+Pool Container Pasar Warakas 1,JL. Warakas 1 RW 01,Warakas,Tanjung Priok,Jakarta Utara,Pool Container,10,Pasar RW 01,13995
+TPS RW. 03 Marunda ,JL. Marunda Baru 4 ,Marunda ,Cilincing ,Jakarta Utara,TPS,120,KBN ,16
+TPS RW.01 Marunda ,JL. Raya Bidara RW. 01 ,Marunda ,Cilincing ,Jakarta Utara,TPS,9,KBN ,4
+TPS Marunda Makmur ,JL. Marunda Makmur RW. 01 ,Marunda ,Cilincing ,Jakarta Utara,TPS,9,KBN,4
+TPS Kepu Marunda ,JL. KP. Marunda Kepu ,Marunda ,Cilincing ,Jakarta Utara,TPS,9,KBN,4
+TPS RW. 03 Sungai Begog ,Jl. Peralihan RT. 06 RW. 03 ,Semper Timur,Cilincing ,Jakarta Utara,TPS,20,Tanah TPU ,8
+TPS RW.06 Semper Timur ,Jl. Akses Marunda RT. 02 RW. 06 ,Semper Timur ,Cilincing ,Jakarta Utara,TPS,6,Tanah Saluran Air ,6
+TPS RW. 09 AIRUD ,JL. Arjuna 3 RT.010 RW. 09,Semper Timur ,Cilincing ,Jakarta Utara,TPS,60,Tanah AIRUD ,12
+TPS RW. 010 Bak Tugu ,JL. Cakung Cilincing RT. 02 RW. 010 ,Semper Timur ,Cilincing ,Jakarta Utara,TPS,8,Pemerintahan Daerah ,8
+TPS RW.03 BUDIDARMA ,JL. Akses Marunda RT.01 RW 03 ,Semper Timur ,Cilincing ,Jakarta Utara,TPS,1000,Pemerintah Daerah ,20
+TPS RW 010,Jl. Tabah 1 Ujung,Kelapa Gading Barat,Kelapa Gading,Jakarta Utara,TPS 3R,50,KODAMAR,35
+RW.01 Kel. Kamal Muara,Jl. Bundaran Kamal  RW.01,Kamal Muara,Penjaringan,Jakarta Utara,TPS,77,Bantaran Kali,16
